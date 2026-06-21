@@ -5,32 +5,54 @@ import {
   countFor,
   getChapters,
 } from "../content/content";
-import type { ContentType, GameType } from "../content/types";
+import type { ContentType, Direction, GameType } from "../content/types";
 import { ProgressBar } from "../components/ProgressBar";
 import { useProgress } from "../state/progress";
 
 const SEL_KEY = "gp.selection";
 
+function defaults(allIds: number[]) {
+  return {
+    selected: new Set(allIds),
+    content: "vocab" as ContentType,
+    game: "multiple-choice" as GameType,
+    direction: "de-en" as Direction,
+    from: 1,
+    to: 18,
+  };
+}
+
 function loadSelection(allIds: number[]) {
   try {
     const raw = localStorage.getItem(SEL_KEY);
-    if (!raw) return { selected: new Set(allIds), content: "vocab" as ContentType, game: "multiple-choice" as GameType, from: 1, to: 18 };
+    if (!raw) return defaults(allIds);
     const p = JSON.parse(raw);
     return {
       selected: new Set<number>(Array.isArray(p.selected) ? p.selected : allIds),
       content: (p.content ?? "vocab") as ContentType,
       game: (p.game ?? "multiple-choice") as GameType,
+      direction: (p.direction ?? "de-en") as Direction,
       from: p.from ?? 1,
       to: p.to ?? 18,
     };
   } catch {
-    return { selected: new Set(allIds), content: "vocab" as ContentType, game: "multiple-choice" as GameType, from: 1, to: 18 };
+    return defaults(allIds);
   }
 }
 
-function saveSelection(selected: Set<number>, content: ContentType, game: GameType, from: number, to: number) {
+function saveSelection(s: {
+  selected: Set<number>;
+  content: ContentType;
+  game: GameType;
+  direction: Direction;
+  from: number;
+  to: number;
+}) {
   try {
-    localStorage.setItem(SEL_KEY, JSON.stringify({ selected: [...selected], content, game, from, to }));
+    localStorage.setItem(
+      SEL_KEY,
+      JSON.stringify({ ...s, selected: [...s.selected] }),
+    );
   } catch { /* non-fatal */ }
 }
 
@@ -54,22 +76,28 @@ export function Home() {
   const { min, max } = CHAPTER_RANGE;
   const allIds = chapters.map((c) => c.id);
 
-  const [{ selected, content, game, from, to }, setAll] = useState(() => loadSelection(allIds));
+  const [all, setAll] = useState(() => loadSelection(allIds));
+  const { selected, content, game, direction, from, to } = all;
+
+  // merge a partial change, persist, and return the next state
+  const update = (patch: Partial<typeof all>) =>
+    setAll((prev) => {
+      const next = { ...prev, ...patch };
+      saveSelection(next);
+      return next;
+    });
 
   const setSelected = (fn: (prev: Set<number>) => Set<number>) =>
     setAll((prev) => {
-      const next = fn(prev.selected);
-      saveSelection(next, prev.content, prev.game, prev.from, prev.to);
-      return { ...prev, selected: next };
+      const next = { ...prev, selected: fn(prev.selected) };
+      saveSelection(next);
+      return next;
     });
-  const setContent = (v: ContentType) =>
-    setAll((prev) => { saveSelection(prev.selected, v, prev.game, prev.from, prev.to); return { ...prev, content: v }; });
-  const setGame = (v: GameType) =>
-    setAll((prev) => { saveSelection(prev.selected, prev.content, v, prev.from, prev.to); return { ...prev, game: v }; });
-  const setFrom = (v: number) =>
-    setAll((prev) => { saveSelection(prev.selected, prev.content, prev.game, v, prev.to); return { ...prev, from: v }; });
-  const setTo = (v: number) =>
-    setAll((prev) => { saveSelection(prev.selected, prev.content, prev.game, prev.from, v); return { ...prev, to: v }; });
+  const setContent = (v: ContentType) => update({ content: v });
+  const setGame = (v: GameType) => update({ game: v });
+  const setDirection = (v: Direction) => update({ direction: v });
+  const setFrom = (v: number) => update({ from: v });
+  const setTo = (v: number) => update({ to: v });
 
   const selectedIds = useMemo(
     () => [...selected].sort((a, b) => a - b),
@@ -97,7 +125,15 @@ export function Home() {
 
   function start() {
     if (!canStart) return;
-    navigate("/play", { state: { chapters: selectedIds, content, game } });
+    navigate("/play", {
+      state: {
+        chapters: selectedIds,
+        content,
+        game,
+        // direction only affects vocab; harmless for other content types
+        direction: content === "vocab" ? direction : undefined,
+      },
+    });
   }
 
   return (
@@ -179,6 +215,36 @@ export function Home() {
           onChange={(v) => setGame(v as GameType)}
         />
       </section>
+
+      {/* direction — only meaningful for vocabulary (German ↔ English) */}
+      {content === "vocab" && (
+        <section className="space-y-2">
+          <span className="text-sm font-semibold text-muted">Direction</span>
+          <div className="flex gap-1 rounded-xl border border-border bg-surface p-1">
+            {(
+              [
+                { id: "de-en", label: "German → English", blurb: "See German, recall English" },
+                { id: "en-de", label: "English → German", blurb: "See English, recall German" },
+              ] as const
+            ).map((d) => {
+              const active = direction === d.id;
+              return (
+                <button
+                  key={d.id}
+                  onClick={() => setDirection(d.id)}
+                  aria-pressed={active}
+                  className={`flex-1 rounded-lg px-3 py-2 text-center transition-theme ${
+                    active ? "bg-surface-2 text-text" : "text-muted hover:text-text"
+                  }`}
+                >
+                  <span className="block text-sm font-semibold">{d.label}</span>
+                  <span className="hidden text-xs text-muted sm:block">{d.blurb}</span>
+                </button>
+              );
+            })}
+          </div>
+        </section>
+      )}
 
       {/* start bar */}
       <div className="sticky bottom-4 z-30">

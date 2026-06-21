@@ -5,6 +5,7 @@ import { grammarFor, phrasesFor, vocabFor } from "./content";
 import type {
   ChapterId,
   ContentType,
+  Direction,
   GameType,
   Question,
   VocabEntry,
@@ -15,7 +16,7 @@ export interface BuildOptions {
   content: ContentType;
   game: GameType;
   /** direction for vocab: show German, answer English, or the reverse */
-  direction?: "de-en" | "en-de";
+  direction?: Direction;
   limit?: number;
 }
 
@@ -85,6 +86,18 @@ function buildVocab(opts: BuildOptions): Question[] {
       .map((o) => (dir === "de-en" ? o.en : o.de))
       .filter(Boolean);
 
+    // Hint: when the German word is the prompt (de-en) it already shows its article,
+    // so a "der …" hint is redundant — fall back to the part of speech. When German is
+    // the answer (en-de) the article hint is genuinely useful (signals gender).
+    const hint =
+      dir === "en-de" && v.article
+        ? `${v.article} …`
+        : v.pos === "noun"
+          ? "noun"
+          : v.pos === "verb"
+            ? "verb"
+            : null;
+
     const base: Question = {
       kind: kindForGame(opts.game),
       sourceId: v.id,
@@ -92,7 +105,7 @@ function buildVocab(opts: BuildOptions): Question[] {
       prompt,
       answer,
       example: v.example,
-      hint: v.article ? `${v.article} …` : v.pos === "verb" ? "verb" : null,
+      hint,
     };
     if (opts.game === "multiple-choice" || opts.game === "match-fill") {
       const distractors = pickDistractors(pool, answer, 3);

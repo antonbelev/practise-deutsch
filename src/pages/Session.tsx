@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 import { buildQuestions } from "../content/buildQuestions";
-import type { ContentType, GameType, Question } from "../content/types";
+import type { ContentType, Direction, GameType, Question } from "../content/types";
 import { GameShell } from "../games/GameShell";
 import { Flashcards } from "../games/Flashcards";
 import { MultipleChoice } from "../games/MultipleChoice";
@@ -14,6 +14,7 @@ interface SessionState {
   chapters: number[];
   content: ContentType;
   game: GameType;
+  direction?: Direction;
 }
 
 const SESSION_LIMIT = 20; // questions per session (keeps it bite-sized)
@@ -33,6 +34,7 @@ export function Session() {
       chapters: state.chapters,
       content: state.content,
       game: state.game,
+      direction: state.direction,
       limit: SESSION_LIMIT,
     });
     // eslint-disable-next-line react-hooks/exhaustive-deps
