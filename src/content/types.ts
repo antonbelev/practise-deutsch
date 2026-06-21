@@ -40,12 +40,18 @@ export interface GrammarTable {
   rows: string[][];
 }
 
+export interface GrammarItem {
+  type: "example" | "note";
+  text: string;
+}
+
 export interface GrammarBlock {
   id: string;
   chapter: ChapterId;
   heading: string;
   kind: "conjugation" | "table" | "note";
   table: GrammarTable | null;
+  items: GrammarItem[];
   raw: string;
 }
 

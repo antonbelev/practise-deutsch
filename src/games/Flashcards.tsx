@@ -47,10 +47,10 @@ export function Flashcards({ question, onAnswer, onNext, isLast }: GameProps) {
             <p className="text-sm text-muted">{question.example}</p>
           )}
           {!flipped && (
-            <p className="text-xs text-muted">Space to flip</p>
+            <p className="hidden text-xs text-muted sm:block">Space to flip</p>
           )}
           {flipped && (
-            <p className="text-xs text-muted">Z — Again · Got it — X</p>
+            <p className="hidden text-xs text-muted sm:block">Z — Again · Got it — X</p>
           )}
         </div>
       </button>
@@ -61,7 +61,7 @@ export function Flashcards({ question, onAnswer, onNext, isLast }: GameProps) {
             className="btn border border-wrong/40 bg-wrong/5 py-3 text-wrong hover:bg-wrong/10"
             onClick={() => grade(false)}
           >
-            <kbd className="rounded border border-wrong/30 px-1 text-xs opacity-60">Z</kbd>
+            <kbd className="hidden rounded border border-wrong/30 px-1 text-xs opacity-60 sm:inline">Z</kbd>
             Again
           </button>
           <button
@@ -69,7 +69,7 @@ export function Flashcards({ question, onAnswer, onNext, isLast }: GameProps) {
             onClick={() => grade(true)}
           >
             Got it
-            <kbd className="rounded border border-correct/30 px-1 text-xs opacity-60">X</kbd>
+            <kbd className="hidden rounded border border-correct/30 px-1 text-xs opacity-60 sm:inline">X</kbd>
           </button>
         </div>
       ) : (

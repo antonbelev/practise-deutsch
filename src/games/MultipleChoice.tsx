@@ -59,6 +59,7 @@ export function MultipleChoice({ question, onAnswer, onNext, isLast }: GameProps
         <FeedbackBar
           correct={norm(picked!) === norm(question.answer)}
           example={question.example}
+          solution={`${question.prompt} → ${question.answer}`}
           onNext={onNext}
           isLast={isLast}
         />
@@ -87,11 +88,14 @@ import type { Question } from "../content/types";
 export function FeedbackBar({
   correct,
   example,
+  solution,
   onNext,
   isLast,
 }: {
   correct: boolean;
   example?: string | null;
+  /** prompt → answer pairing, shown when the learner got it wrong */
+  solution?: string;
   onNext: () => void;
   isLast: boolean;
 }) {
@@ -102,11 +106,18 @@ export function FeedbackBar({
       }`}
     >
       <div className="flex items-center gap-3">
-        <span className={`text-sm font-semibold ${correct ? "text-correct" : "text-wrong"}`}>
-          {correct ? "Correct" : "Not quite"}
-        </span>
-        {example && <span className="line-clamp-1 text-sm text-muted">{example}</span>}
-        <button className="btn-primary ml-auto" onClick={onNext} autoFocus>
+        <div className="min-w-0 flex-1">
+          <span className={`text-sm font-semibold ${correct ? "text-correct" : "text-wrong"}`}>
+            {correct ? "Correct" : "Not quite"}
+          </span>
+          {!correct && solution && (
+            <p className="mt-0.5 truncate text-sm font-medium text-text">{solution}</p>
+          )}
+          {example && (
+            <p className="mt-0.5 line-clamp-1 text-sm text-muted">{example}</p>
+          )}
+        </div>
+        <button className="btn-primary shrink-0 self-start" onClick={onNext} autoFocus>
           {isLast ? "Finish" : "Next"}
         </button>
       </div>

@@ -28,18 +28,31 @@ function shuffle<T>(arr: T[]): T[] {
   return a;
 }
 
+// Reduce a gloss to its set of distinct senses so two options that share any sense
+// (e.g. "to think, to believe" vs "to believe") are treated as duplicates.
+function senseKeys(s: string): string[] {
+  return s
+    .split(/[,;/]| or /i)
+    .map((part) => norm(part.replace(/\(.*?\)/g, "").replace(/^(to|the|a|an)\s+/, "")))
+    .filter(Boolean);
+}
+
 function pickDistractors(
   pool: string[],
   correct: string,
   n: number,
 ): string[] {
-  const seen = new Set([norm(correct)]);
+  // block the correct answer and every sense it contains
+  const blocked = new Set([norm(correct), ...senseKeys(correct)]);
   const out: string[] = [];
   for (const candidate of shuffle(pool)) {
     if (out.length >= n) break;
     const key = norm(candidate);
-    if (seen.has(key)) continue;
-    seen.add(key);
+    if (blocked.has(key)) continue;
+    // skip candidates that share a sense with the answer or an already-picked option
+    if (senseKeys(candidate).some((k) => blocked.has(k))) continue;
+    blocked.add(key);
+    senseKeys(candidate).forEach((k) => blocked.add(k));
     out.push(candidate);
   }
   return out;
@@ -99,19 +112,30 @@ function buildPhrases(opts: BuildOptions): Question[] {
   const allDe = phrases.map((p) => p.de);
 
   for (const p of phrases) {
-    const words = p.de.split(" ").filter((w) => w.replace(/\W/g, "").length > 2);
+    // candidate blank words: >3 letters, appear exactly once (unambiguous), and
+    // prefer capitalised (nouns) — the meaningful content words of the phrase.
+    const tokens = p.de.split(" ");
+    const count = (w: string) =>
+      tokens.filter((t) => norm(t) === norm(w)).length;
+    const words = tokens.filter(
+      (w) => w.replace(/\W/g, "").length > 3 && count(w) === 1,
+    );
+    words.sort((a, b) => Number(/^[A-ZÄÖÜ]/.test(b)) - Number(/^[A-ZÄÖÜ]/.test(a)));
     if (!words.length) continue;
 
     if (opts.game === "flashcards") {
-      // Show German phrase, recall category / register
+      // The phrase data has no English translation, so a German→English card isn't
+      // possible. Instead, prompt with the usage context (category + register) and
+      // recall the German phrase — a useful "how do I say X?" drill.
+      const context = p.register ? `${p.category} · ${p.register}` : p.category;
       questions.push({
         kind: "flashcard",
         sourceId: p.id,
         chapter: p.chapter,
-        prompt: p.de,
-        answer: p.en ?? p.category,
-        example: null,
-        hint: p.register,
+        prompt: context,
+        answer: p.de,
+        example: p.en,
+        hint: "phrase",
       });
     } else if (opts.game === "multiple-choice") {
       // Show category label, pick the correct German phrase from 4 options
@@ -127,8 +151,9 @@ function buildPhrases(opts: BuildOptions): Question[] {
         choices: shuffle([p.de, ...distractors]),
       });
     } else {
-      // type-answer and match-fill: fill in a blanked word from the phrase
-      const target = words[Math.floor(Math.random() * words.length)];
+      // type-answer and match-fill: fill in a blanked content word from the phrase.
+      // Pick from the top (capitalised words sorted first) for a meaningful target.
+      const target = words[Math.floor(Math.random() * Math.min(3, words.length))];
       const blanked = p.de.replace(target, "____");
       questions.push({
         kind: "fill",
@@ -136,8 +161,8 @@ function buildPhrases(opts: BuildOptions): Question[] {
         chapter: p.chapter,
         prompt: blanked,
         answer: target.replace(/[.,!?]/g, ""),
-        example: p.de,
-        hint: p.register,
+        example: p.en ? `${p.de}  —  ${p.en}` : p.de,
+        hint: p.register ?? p.category,
       });
     }
   }

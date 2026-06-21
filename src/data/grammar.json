@@ -1,14 +1,36 @@
 [
   {
-    "id": "g-1-wh-questions-and-declarative-sentences-595",
+    "id": "g-1-wh-questions-and-declarative-sentences-6361",
     "chapter": 1,
     "heading": "Wh Questions And Declarative Sentences",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "WH -question Statement"
+      },
+      {
+        "type": "example",
+        "text": "Wie heißt du? Ich heiße Julia."
+      },
+      {
+        "type": "example",
+        "text": "Woher kommst du? Ich komme aus Deutschland."
+      },
+      {
+        "type": "example",
+        "text": "Wo wohnst du? Ich wohne in Berlin."
+      },
+      {
+        "type": "example",
+        "text": "Welche Sprachen sprichst du? Ich spreche Deutsch"
+      }
+    ],
     "raw": "WH -question Statement\nWie heißt du? Ich heiße Julia.\nWoher kommst du? Ich komme aus Deutschland.\nWo wohnst du? Ich wohne in Berlin.\nWelche Sprachen sprichst du? Ich spreche Deutsch"
   },
   {
-    "id": "g-1-personal-pronoun-and-verb-3404",
+    "id": "g-1-personal-pronoun-and-verb-6871",
     "chapter": 1,
     "heading": "Personal Pronoun And Verb",
     "kind": "conjugation",
@@ -56,34 +78,102 @@
         ]
       ]
     },
+    "items": [
+      {
+        "type": "example",
+        "text": "wohnen kommen heißen sprechen sein ich wohne komme heiße spreche bin du wohnst kommst heißt sprichst bist er/es/sie wohnt kommt heißt spricht ist sie/Sie wohnen kommen heißen sprechen sind"
+      }
+    ],
     "raw": "wohnen kommen heißen sprechen sein\nich wohne komme heiße spreche bin\ndu wohnst kommst heißt sprichst bist\ner/es/sie wohnt kommt heißt spricht ist\nsie/Sie wohnen kommen heißen sprechen sind"
   },
   {
-    "id": "g-1-references-in-texts-512",
+    "id": "g-1-references-in-texts-2505",
     "chapter": 1,
     "heading": "References In Texts",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Das ist Alexis."
+      },
+      {
+        "type": "example",
+        "text": "Er kommt aus Paris."
+      },
+      {
+        "type": "note",
+        "text": "Er wohnt in Dresden."
+      },
+      {
+        "type": "example",
+        "text": "Er spricht Französisch und ein bisschen Deutsch."
+      },
+      {
+        "type": "example",
+        "text": "Das ist Patricia."
+      },
+      {
+        "type": "example",
+        "text": "Sie kommt aus Mexiko."
+      },
+      {
+        "type": "example",
+        "text": "Sie wohnt in Rostock."
+      },
+      {
+        "type": "example",
+        "text": "Sie spricht natürlich Spanisch und sie lernt Deutsch."
+      }
+    ],
     "raw": "Das ist Alexis.\nEr\nkommt aus Paris.\nEr wohnt in Dresden.\nEr spricht Französisch und ein bisschen Deutsch.\nDas ist Patricia.\nSie kommt aus Mexiko.\nSie wohnt in Rostock.\nSie spricht natürlich Spanisch und sie lernt Deutsch."
   },
   {
-    "id": "g-2-job-titles-8165",
+    "id": "g-2-job-titles-7915",
     "chapter": 2,
     "heading": "Job Titles",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "Feminine job titles often end in -in."
+      },
+      {
+        "type": "example",
+        "text": "Note: der Arzt die Ärztin der Krankenpfleger die Krankenschwester/Krankenpflegerin"
+      }
+    ],
     "raw": "Feminine job titles often end in -in.\nNote:\nder Arzt die Ärztin\nder Krankenpfleger die Krankenschwester/Krankenpflegerin"
   },
   {
-    "id": "g-2-noun-pronoun-and-verb-9756",
+    "id": "g-2-noun-pronoun-and-verb-2410",
     "chapter": 2,
     "heading": "Noun/Pronoun And Verb",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Markus Hahne Er ist Architekt."
+      },
+      {
+        "type": "example",
+        "text": "Maria Alvarez Sie kommt aus Portugal."
+      },
+      {
+        "type": "example",
+        "text": "Sie lebt in Berlin."
+      },
+      {
+        "type": "example",
+        "text": "Markus und Maria Sie leben in Berlin. Sie sind verheiratet."
+      }
+    ],
     "raw": "Markus Hahne Er ist Architekt.\nMaria Alvarez Sie kommt aus Portugal.\nSie lebt in Berlin.\nMarkus und Maria Sie leben in Berlin. Sie sind verheiratet."
   },
   {
-    "id": "g-2-personal-pronoun-and-verb-6307",
+    "id": "g-2-personal-pronoun-and-verb-9773",
     "chapter": 2,
     "heading": "Personal Pronoun And Verb",
     "kind": "conjugation",
@@ -126,58 +216,212 @@
         ]
       ]
     },
+    "items": [
+      {
+        "type": "example",
+        "text": "machen arbeiten haben sein ich mache arbeite habe bin du machst arbeitest hast bist er/es/sie macht arbeitet hat ist sie/Sie machen arbeiten haben sind"
+      }
+    ],
     "raw": "machen arbeiten haben sein\nich mache arbeite habe bin\ndu machst arbeitest hast bist\ner/es/sie macht arbeitet hat ist\nsie/Sie machen arbeiten haben sind"
   },
   {
-    "id": "g-2-plural-endings-9029",
+    "id": "g-2-plural-endings-1951",
     "chapter": 2,
     "heading": "Plural Endings",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "-(e)n -s -(¨)(s)e -(¨)er (¨)- die Sprache – Sprachen die Briefmarke - Briefmarken das Handy – Handys der USB-Stick – USB-Sticks die Maus – Mäuse das Formular – Formulare das Buch – Bücher der Schlüssel – Schlüssel der Kalender – Kalender"
+      }
+    ],
     "raw": "-(e)n -s -(¨)(s)e -(¨)er (¨)-\ndie Sprache –\nSprachen\ndie Briefmarke -\nBriefmarken\ndas Handy –\nHandys\nder USB-Stick –\nUSB-Sticks\ndie Maus –\nMäuse\ndas Formular –\nFormulare\ndas Buch\n– Bücher\nder Schlüssel –\nSchlüssel\nder Kalender –\nKalender"
   },
   {
-    "id": "g-2-definite-articles-1596",
+    "id": "g-2-definite-articles-7791",
     "chapter": 2,
     "heading": "Definite Articles",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "Singular Plural"
+      },
+      {
+        "type": "example",
+        "text": "der Bleistift die Bleistifte das Buch Bücher die Briefmarke Briefmarken"
+      }
+    ],
     "raw": "Singular Plural\nder\nBleistift\ndie\nBleistifte\ndas\nBuch Bücher\ndie\nBriefmarke Briefmarken"
   },
   {
-    "id": "g-2-negation-with-nicht-4429",
+    "id": "g-2-negation-with-nicht-623",
     "chapter": 2,
     "heading": "Negation With Nicht",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Nicht can negate sentences or words. When nicht negates a whole sentence it is placed as far"
+      },
+      {
+        "type": "note",
+        "text": "right/towards the end of the sentence as possible."
+      },
+      {
+        "type": "example",
+        "text": "Er wohnt nicht in Hamburg. Er wohnt in Berlin."
+      },
+      {
+        "type": "example",
+        "text": "Sie arbeitet nicht. Sie studiert."
+      }
+    ],
     "raw": "Nicht can negate sentences or words. When nicht negates a whole sentence it is placed as far\nright/towards the end of the sentence as possible.\nEr wohnt nicht in Hamburg. Er wohnt in Berlin.\nSie arbeitet nicht. Sie studiert."
   },
   {
-    "id": "g-3-grammar-3631",
+    "id": "g-3-grammar-238",
     "chapter": 3,
     "heading": "Grammar",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "SPORTS: NOUN + VERB OR VERB?"
+      },
+      {
+        "type": "note",
+        "text": "Some sports are described with noun + verb:"
+      },
+      {
+        "type": "example",
+        "text": "Volleyball spielen, Ski fahren, Yoga machen etc."
+      },
+      {
+        "type": "example",
+        "text": "Stefan spielt Volleyball."
+      },
+      {
+        "type": "note",
+        "text": "Some sports are described with verbs:"
+      },
+      {
+        "type": "example",
+        "text": "wandern, schwimmen, joggen etc."
+      },
+      {
+        "type": "example",
+        "text": "Julia schwimmt."
+      }
+    ],
     "raw": "SPORTS: NOUN + VERB OR VERB?\nSome sports are described with noun + verb:\nVolleyball spielen, Ski fahren, Yoga machen etc.\nStefan spielt Volleyball.\nSome sports are described with verbs:\nwandern, schwimmen, joggen etc.\nJulia schwimmt."
   },
   {
-    "id": "g-3-position-of-the-verb-281",
+    "id": "g-3-position-of-the-verb-273",
     "chapter": 3,
     "heading": "Position Of The Verb",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "Verb Position 2"
+      },
+      {
+        "type": "note",
+        "text": "Statement"
+      },
+      {
+        "type": "example",
+        "text": "Ich Ich schwimme spiele gern."
+      },
+      {
+        "type": "example",
+        "text": "gern Tennis."
+      },
+      {
+        "type": "note",
+        "text": "WH -question"
+      },
+      {
+        "type": "example",
+        "text": "Was Wo spielst spielst du gern?"
+      },
+      {
+        "type": "example",
+        "text": "du gern Volleyball?"
+      },
+      {
+        "type": "note",
+        "text": "Verb Position 1"
+      },
+      {
+        "type": "note",
+        "text": "Yes/no question"
+      },
+      {
+        "type": "example",
+        "text": "Joggst Fährst du du gern?"
+      },
+      {
+        "type": "example",
+        "text": "gern Ski?"
+      }
+    ],
     "raw": "Verb Position 2\nStatement\nIch\nIch\nschwimme\nspiele\ngern.\ngern Tennis.\nWH -question\nWas\nWo\nspielst\nspielst\ndu gern?\ndu gern Volleyball?\nVerb Position 1\nYes/no question\nJoggst\nFährst\ndu\ndu\ngern?\ngern Ski?"
   },
   {
-    "id": "g-3-position-of-gern-nicht-gern-9833",
+    "id": "g-3-position-of-gern-nicht-gern-3504",
     "chapter": 3,
     "heading": "Position Of Gern / Nicht Gern",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "Statement"
+      },
+      {
+        "type": "example",
+        "text": "Ich Ich schwimme spiele gern / nicht gern."
+      },
+      {
+        "type": "example",
+        "text": "gern / nicht gern Tennis."
+      },
+      {
+        "type": "note",
+        "text": "WH -question"
+      },
+      {
+        "type": "example",
+        "text": "Was Wo spielst spielst du gern?"
+      },
+      {
+        "type": "example",
+        "text": "du gern Volleyball?"
+      },
+      {
+        "type": "note",
+        "text": "Yes/no question"
+      },
+      {
+        "type": "example",
+        "text": "Joggst Fährst du du gern?"
+      },
+      {
+        "type": "example",
+        "text": "gern Ski?"
+      }
+    ],
     "raw": "Statement\nIch\nIch\nschwimme\nspiele\ngern / nicht gern.\ngern / nicht gern Tennis.\nWH -question\nWas\nWo\nspielst\nspielst\ndu gern?\ndu gern Volleyball?\nYes/no question\nJoggst\nFährst\ndu\ndu\ngern?\ngern Ski?"
   },
   {
-    "id": "g-3-personal-pronoun-and-verb-6935",
+    "id": "g-3-personal-pronoun-and-verb-5949",
     "chapter": 3,
     "heading": "Personal Pronoun And Verb",
     "kind": "conjugation",
@@ -222,34 +466,118 @@
         ]
       ]
     },
+    "items": [
+      {
+        "type": "example",
+        "text": "machen ich mache du machst er/es/sie macht wir machen ihr macht sie/Sie machen haben ich habe du hast er/es/sie hat wir haben ihr habt sie/Sie haben"
+      }
+    ],
     "raw": "machen\nich mache\ndu machst\ner/es/sie macht\nwir machen\nihr macht\nsie/Sie machen\nhaben\nich habe\ndu hast\ner/es/sie hat\nwir haben\nihr habt\nsie/Sie haben"
   },
   {
-    "id": "g-3-definite-indefinite-negative-article-2946",
+    "id": "g-3-definite-indefinite-negative-article-8049",
     "chapter": 3,
     "heading": "Definite/Indefinite/Negative Article",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "Singular Plural"
+      },
+      {
+        "type": "example",
+        "text": "masculine neuter feminine Definite article der Rucksack das Telefon die Uhr die Indefinite article ein Rucksack ein Telefon eine Uhr Ø Negative article kein Rucksack kein Telefon keine Uhr keine Das ist kein Telefon."
+      },
+      {
+        "type": "example",
+        "text": "Das ist ein Telefon. Das ist das Telefon von Julia."
+      },
+      {
+        "type": "example",
+        "text": "Das ist eine Uhr."
+      },
+      {
+        "type": "example",
+        "text": "Das sind Uhren."
+      }
+    ],
     "raw": "Singular Plural\nmasculine neuter feminine\nDefinite article der Rucksack das Telefon die Uhr die\nIndefinite article ein Rucksack ein Telefon eine Uhr Ø\nNegative article kein Rucksack kein Telefon keine Uhr keine\nDas ist kein Telefon.\nDas ist ein Telefon. Das ist das Telefon von Julia.\nDas ist eine Uhr.\nDas sind Uhren."
   },
   {
-    "id": "g-4-nominative-and-accusative-5826",
+    "id": "g-4-nominative-and-accusative-2903",
     "chapter": 4,
     "heading": "Nominative And Accusative",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Nominative Was ist das?"
+      },
+      {
+        "type": "example",
+        "text": "Das ist ein Kaffee."
+      },
+      {
+        "type": "example",
+        "text": "ein Bier."
+      },
+      {
+        "type": "example",
+        "text": "eine Limonade."
+      },
+      {
+        "type": "example",
+        "text": "Accusative Was bestellen die Personen?"
+      },
+      {
+        "type": "example",
+        "text": "Er/Sie bestellt einen Kaffee."
+      },
+      {
+        "type": "example",
+        "text": "ein Bier."
+      },
+      {
+        "type": "example",
+        "text": "eine Limonade."
+      },
+      {
+        "type": "example",
+        "text": "Verbs with accusative: bestellen, trinken, nehmen, möchten …"
+      }
+    ],
     "raw": "Nominative\nWas ist das?\nDas ist\nein Kaffee.\nein Bier.\neine Limonade.\nAccusative\nWas bestellen die Personen?\nEr/Sie bestellt\neinen Kaffee.\nein Bier.\neine Limonade.\nVerbs with accusative: bestellen, trinken, nehmen, möchten …"
   },
   {
-    "id": "g-4-nominative-and-accusative-2069",
+    "id": "g-4-nominative-and-accusative-6273",
     "chapter": 4,
     "heading": "Nominative And Accusative",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Nominative Accusative der – ein – kein den – einen –keinen das – ein – kein das – ein – kein die – eine – keine die – eine – keine die – Ø – keine die – Ø – keine Es gibt … / haben … + Accusative einen/keinen Flughafen/Bahnhof/Hafen."
+      },
+      {
+        "type": "example",
+        "text": "ein/kein Theater/Kino/Museum/Kaufhaus."
+      },
+      {
+        "type": "example",
+        "text": "eine/keine Kirche/Oper."
+      },
+      {
+        "type": "example",
+        "text": "keine Museen/Theater/Bibliotheken/Kaufhäuser."
+      }
+    ],
     "raw": "Nominative Accusative\nder – ein – kein den – einen –keinen\ndas – ein – kein das – ein – kein\ndie – eine – keine die – eine – keine\ndie – Ø – keine die – Ø – keine\nEs gibt … / haben … + Accusative\neinen/keinen Flughafen/Bahnhof/Hafen.\nein/kein Theater/Kino/Museum/Kaufhaus.\neine/keine Kirche/Oper.\nkeine Museen/Theater/Bibliotheken/Kaufhäuser."
   },
   {
-    "id": "g-4-m-chten-sein-3567",
+    "id": "g-4-m-chten-sein-9410",
     "chapter": 4,
     "heading": "Möchten, Sein",
     "kind": "conjugation",
@@ -294,10 +622,16 @@
         ]
       ]
     },
+    "items": [
+      {
+        "type": "example",
+        "text": "möchten ich möchte du möchtest er/es/sie möchte wir möchten ihr möchtet sie/Sie möchten sein ich bin du bist er/es/sie ist wir sind ihr seid sie/Sie sind"
+      }
+    ],
     "raw": "möchten\nich möchte\ndu möchtest\ner/es/sie möchte\nwir möchten\nihr möchtet\nsie/Sie möchten\nsein\nich bin\ndu bist\ner/es/sie ist\nwir sind\nihr seid\nsie/Sie sind"
   },
   {
-    "id": "g-5-m-gen-6519",
+    "id": "g-5-m-gen-2753",
     "chapter": 5,
     "heading": "Mögen",
     "kind": "conjugation",
@@ -326,10 +660,16 @@
         ]
       ]
     },
+    "items": [
+      {
+        "type": "example",
+        "text": "mögen ich mag du magst er/es/sie mag wir mögen ihr mögt sie/Sie mögen"
+      }
+    ],
     "raw": "mögen\nich mag\ndu magst\ner/es/sie mag\nwir mögen\nihr mögt\nsie/Sie mögen"
   },
   {
-    "id": "g-5-essen-geben-nehmen-8763",
+    "id": "g-5-essen-geben-nehmen-1886",
     "chapter": 5,
     "heading": "Essen, Geben, Nehmen",
     "kind": "conjugation",
@@ -367,26 +707,108 @@
         ]
       ]
     },
+    "items": [
+      {
+        "type": "example",
+        "text": "essen geben nehmen ich esse gebe nehme du isst gibst nimmst er/es/sie isst gibt nimmt wir essen geben nehmen ihr esst gebt nehmt sie/Sie essen geben nehmen"
+      }
+    ],
     "raw": "essen geben nehmen\nich esse gebe nehme\ndu isst gibst nimmst\ner/es/sie isst gibt nimmt\nwir essen geben nehmen\nihr esst gebt nehmt\nsie/Sie essen geben nehmen"
   },
   {
-    "id": "g-5-imperative-sentence-6718",
+    "id": "g-5-imperative-sentence-3381",
     "chapter": 5,
     "heading": "Imperative Sentence",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Polite commands Geben Sie mir 100 g Käse."
+      },
+      {
+        "type": "example",
+        "text": "Bringen Sie noch einen Apfelsaft, bitte."
+      },
+      {
+        "type": "example",
+        "text": "Imperative du/ihr du bringst ➝ Bring den Kaffee!"
+      },
+      {
+        "type": "example",
+        "text": "du fährst ➝ Fahr langsam!"
+      },
+      {
+        "type": "example",
+        "text": "du schneidest ➝ Schneid(e) das Brot!"
+      },
+      {
+        "type": "example",
+        "text": "du isst ➝ Iss langsam!"
+      },
+      {
+        "type": "example",
+        "text": "ihr bringt ➝ Bringt den Kaffee!"
+      },
+      {
+        "type": "example",
+        "text": "ihr fahrt ➝ Fahrt langsam!"
+      }
+    ],
     "raw": "Polite commands\nGeben Sie mir 100 g Käse.\nBringen Sie noch einen Apfelsaft, bitte.\nImperative du/ihr\ndu\nbringst ➝ Bring den Kaffee!\ndu fährst ➝ Fahr langsam!\ndu schneidest ➝ Schneid(e) das Brot!\ndu isst ➝ Iss langsam!\nihr bringt ➝ Bringt den Kaffee!\nihr fahrt ➝ Fahrt langsam!"
   },
   {
-    "id": "g-5-positions-of-the-verb-2345",
+    "id": "g-5-positions-of-the-verb-4926",
     "chapter": 5,
     "heading": "Positions Of The Verb",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "Verb Position 2"
+      },
+      {
+        "type": "note",
+        "text": "Statement"
+      },
+      {
+        "type": "example",
+        "text": "Anja mag keine Salami."
+      },
+      {
+        "type": "note",
+        "text": "WH -question"
+      },
+      {
+        "type": "example",
+        "text": "Was kosten 100 Gramm Salami?"
+      },
+      {
+        "type": "note",
+        "text": "Verb Position 1"
+      },
+      {
+        "type": "note",
+        "text": "Yes/no question"
+      },
+      {
+        "type": "example",
+        "text": "Magst du Salami?"
+      },
+      {
+        "type": "note",
+        "text": "Imperative sentence"
+      },
+      {
+        "type": "example",
+        "text": "Geben Sie mir 200 g Salami, bitte."
+      }
+    ],
     "raw": "Verb Position 2\nStatement\nAnja mag keine Salami.\nWH -question\nWas kosten 100 Gramm Salami?\nVerb Position 1\nYes/no question\nMagst du Salami?\nImperative sentence\nGeben Sie mir 200 g Salami, bitte."
   },
   {
-    "id": "g-6-modal-verbs-9292",
+    "id": "g-6-modal-verbs-79",
     "chapter": 6,
     "heading": "Modal Verbs",
     "kind": "conjugation",
@@ -424,34 +846,110 @@
         ]
       ]
     },
+    "items": [
+      {
+        "type": "example",
+        "text": "wollen müssen können ich will muss kann du willst musst kannst er/es/sie will muss kann wir wollen müssen können ihr wollt müsst könnt sie/Sie wollen müssen können"
+      }
+    ],
     "raw": "wollen müssen können\nich will muss kann\ndu willst musst kannst\ner/es/sie will muss kann\nwir wollen müssen können\nihr wollt müsst könnt\nsie/Sie wollen müssen können"
   },
   {
-    "id": "g-6-modal-verbs-in-a-sentence-3611",
+    "id": "g-6-modal-verbs-in-a-sentence-6734",
     "chapter": 6,
     "heading": "Modal Verbs In A Sentence",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "Statement and WH -question"
+      },
+      {
+        "type": "note",
+        "text": "Modal verb Sentence bracket Infinitive"
+      },
+      {
+        "type": "example",
+        "text": "Sabine will am Abend eine Freundin treffen."
+      },
+      {
+        "type": "example",
+        "text": "Wann musst du heute arbeiten?"
+      },
+      {
+        "type": "note",
+        "text": "Yes/no question"
+      },
+      {
+        "type": "note",
+        "text": "Modal verb Sentence bracket Infinitive"
+      },
+      {
+        "type": "example",
+        "text": "Kannst du heute kommen?"
+      },
+      {
+        "type": "example",
+        "text": "Willst du morgen Fußball spielen?"
+      }
+    ],
     "raw": "Statement and WH -question\nModal verb Sentence bracket Infinitive\nSabine will am Abend eine Freundin treffen.\nWann musst du heute arbeiten?\nYes/no question\nModal verb Sentence bracket Infinitive\nKannst du heute kommen?\nWillst du morgen Fußball spielen?"
   },
   {
-    "id": "g-6-position-in-a-sentence-6032",
+    "id": "g-6-position-in-a-sentence-4106",
     "chapter": 6,
     "heading": "Position In A Sentence",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Sie Am Abend hat hat am Abend sie oft Konzerte."
+      },
+      {
+        "type": "example",
+        "text": "oft Konzerte."
+      },
+      {
+        "type": "note",
+        "text": "The subject can be in the statement clause or after the verb. The verb is always in Position 2."
+      }
+    ],
     "raw": "Sie\nAm Abend\nhat\nhat\nam Abend\nsie\noft Konzerte.\noft Konzerte.\nThe subject can be in the statement clause or after the verb. The verb is always in Position 2."
   },
   {
-    "id": "g-6-dates-3933",
+    "id": "g-6-dates-8634",
     "chapter": 6,
     "heading": "Dates",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Welches Datum ist heute? Wann ist der Termin? Wann machst du Urlaub?"
+      },
+      {
+        "type": "example",
+        "text": "Am Mittwoch, den zehnten Mai (10.05.) Vom ersten bis zum siebenundzwanzigsten Juni."
+      },
+      {
+        "type": "example",
+        "text": "Vom 1. bis 27.6."
+      },
+      {
+        "type": "example",
+        "text": "written: Der 10.05. Am 10.05. Vom 14.11.–20.11."
+      },
+      {
+        "type": "example",
+        "text": "spoken: Der zehnte Mai Am zehnten Mai Vom vierzehnten bis zwanzigsten November Der erste (1.)… zweite (2.) … dritte (3.) … siebte (7.) … Juni dreizehnte (13.) … siebenundzwanzigste (27.) … Am ersten (1.) … zweiten (2.) … dritten (3.) … siebten (7.) … Juni dreizehnten (13.) … siebenundzwanzigsten (27.) …"
+      }
+    ],
     "raw": "Welches Datum ist heute? Wann ist der Termin? Wann machst du\nUrlaub?\nAm Mittwoch, den\nzehnten Mai (10.05.)\nVom ersten bis zum\nsiebenundzwanzigsten\nJuni.\nVom 1. bis 27.6.\nwritten: Der 10.05. Am 10.05. Vom 14.11.–20.11.\nspoken: Der zehnte Mai Am zehnten Mai\nVom vierzehnten\nbis zwanzigsten\nNovember\nDer\nerste (1.)…\nzweite (2.) …\ndritte (3.) …\nsiebte (7.) … Juni\ndreizehnte (13.) …\nsiebenundzwanzigste (27.) …\nAm\nersten (1.) …\nzweiten (2.) …\ndritten (3.) …\nsiebten (7.) … Juni\ndreizehnten (13.) …\nsiebenundzwanzigsten (27.) …"
   },
   {
-    "id": "g-7-personal-pronouns-in-the-accusative-1925",
+    "id": "g-7-personal-pronouns-in-the-accusative-8366",
     "chapter": 7,
     "heading": "Personal Pronouns In The Accusative",
     "kind": "conjugation",
@@ -478,18 +976,82 @@
         ]
       ]
     },
+    "items": [
+      {
+        "type": "example",
+        "text": "Nominative Accusative ich mich du dich er ihn es es sie sie wir uns ihr euch Sie/sie (Pl.) Sie/sie (Pl.)"
+      },
+      {
+        "type": "note",
+        "text": "Verbs that take the accusative:"
+      },
+      {
+        "type": "example",
+        "text": "brauchen, finden, fragen, haben, machen, mitnehmen, mögen, kennen, sehen, wissen …"
+      }
+    ],
     "raw": "Nominative Accusative\nich mich\ndu dich\ner ihn\nes es\nsie sie\nwir uns\nihr euch\nSie/sie (Pl.) Sie/sie (Pl.)\nVerbs that take the accusative:\nbrauchen, finden, fragen, haben, machen, mitnehmen, mögen, kennen, sehen, wissen …"
   },
   {
-    "id": "g-7-separable-verbs-sentence-brackets-1431",
+    "id": "g-7-separable-verbs-sentence-brackets-3098",
     "chapter": 7,
     "heading": "Separable Verbs – Sentence Brackets",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "Statement"
+      },
+      {
+        "type": "note",
+        "text": "Position 2 End of sentence"
+      },
+      {
+        "type": "example",
+        "text": "Wir räumen die Wohnung auf."
+      },
+      {
+        "type": "example",
+        "text": "Wir müssen die Wohnung aufräumen."
+      },
+      {
+        "type": "note",
+        "text": "WH -question"
+      },
+      {
+        "type": "note",
+        "text": "Position 2 End of sentence"
+      },
+      {
+        "type": "example",
+        "text": "Wer ruft Tom an?"
+      },
+      {
+        "type": "example",
+        "text": "Wer kann Tom anrufen?"
+      },
+      {
+        "type": "note",
+        "text": "Yes/no question"
+      },
+      {
+        "type": "note",
+        "text": "Position 1 End of sentence"
+      },
+      {
+        "type": "example",
+        "text": "Kaufst du das Essen ein?"
+      },
+      {
+        "type": "example",
+        "text": "Kannst du das Essen einkaufen?"
+      }
+    ],
     "raw": "Statement\nPosition 2 End of sentence\nWir räumen die Wohnung auf.\nWir müssen die Wohnung aufräumen.\nWH -question\nPosition 2 End of sentence\nWer ruft Tom an?\nWer kann Tom anrufen?\nYes/no question\nPosition 1 End of sentence\nKaufst du das Essen ein?\nKannst du das Essen einkaufen?"
   },
   {
-    "id": "g-8-possessive-articles-in-the-nominative-6833",
+    "id": "g-8-possessive-articles-in-the-nominative-621",
     "chapter": 8,
     "heading": "Possessive Articles In The Nominative",
     "kind": "conjugation",
@@ -526,34 +1088,98 @@
         ]
       ]
     },
+    "items": [
+      {
+        "type": "note",
+        "text": "The possessive articles have the same endings as negative articles."
+      },
+      {
+        "type": "example",
+        "text": "der Flur das Zimmer die Wohnung die Nachbarn (Plural) ich mein mein meine meine du dein dein deine deine er/es sein sein seine seine sie ihr ihr ihre ihre wir unser unser unsere unsere ihr euer euer eure eure sie ihr ihr ihre ihre Sie Ihr Ihr Ihre Ihre Note: euer, euere"
+      }
+    ],
     "raw": "The possessive articles have the same endings as negative articles.\nder Flur das Zimmer die Wohnung die Nachbarn (Plural)\nich mein mein meine meine\ndu dein dein deine deine\ner/es sein sein seine seine\nsie ihr ihr ihre ihre\nwir unser unser unsere unsere\nihr euer euer eure eure\nsie ihr ihr ihre ihre\nSie Ihr Ihr Ihre Ihre\nNote: euer, euere"
   },
   {
-    "id": "g-8-possessive-articles-in-the-third-person-4284",
+    "id": "g-8-possessive-articles-in-the-third-person-1622",
     "chapter": 8,
     "heading": "Possessive Articles In The Third Person",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Das ist Frau Schmidt. Ihr Computer (m.) ist neu. Das ist Herr Schmidt. Sein Computer (m.) ist neu."
+      },
+      {
+        "type": "example",
+        "text": "Das ist Frau Schmidt. Ihr Fahrrad (n.) ist rot. Das ist Herr Schmidt. Sein Fahrrad (n.) ist rot."
+      },
+      {
+        "type": "example",
+        "text": "Das ist Frau Schmidt. Ihre Wohnung (f.) ist klein. Das ist Herr Schmidt. Seine Wohnung (f.) ist klein."
+      },
+      {
+        "type": "example",
+        "text": "Das ist Frau Schmidt. Ihre Kinder (Pl.) sind klein. Das ist Herr Schmidt. Seine Kinder (Pl.) sind klein."
+      }
+    ],
     "raw": "Das ist Frau Schmidt. Ihr Computer (m.) ist neu. Das ist Herr Schmidt. Sein Computer (m.) ist neu.\nDas ist Frau Schmidt. Ihr Fahrrad (n.) ist rot. Das ist Herr Schmidt. Sein Fahrrad (n.) ist rot.\nDas ist Frau Schmidt. Ihre Wohnung (f.) ist klein. Das ist Herr Schmidt. Seine Wohnung (f.) ist klein.\nDas ist Frau Schmidt. Ihre Kinder (Pl.) sind klein. Das ist Herr Schmidt. Seine Kinder (Pl.) sind klein."
   },
   {
-    "id": "g-8-possessive-articles-in-the-accusative-4028",
+    "id": "g-8-possessive-articles-in-the-accusative-8791",
     "chapter": 8,
     "heading": "Possessive Articles In The Accusative",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Das ist Paul. Er sucht seinen Computer."
+      },
+      {
+        "type": "example",
+        "text": "Nominative Accusative Singular mein Tisch meinen Tisch mein Bett mein Bett meine Lampe meine Lampe Plural meine Möbel meine Möbel"
+      },
+      {
+        "type": "note",
+        "text": "All other possessive articles are formed in the same way."
+      },
+      {
+        "type": "example",
+        "text": "Exception: eueren"
+      }
+    ],
     "raw": "Das ist Paul. Er sucht seinen Computer.\nNominative Accusative\nSingular mein Tisch meinen Tisch\nmein Bett mein Bett\nmeine Lampe meine Lampe\nPlural meine Möbel meine Möbel\nAll other possessive articles are formed in the same way.\nException: eueren"
   },
   {
-    "id": "g-8-nicht-sehr-zu-6134",
+    "id": "g-8-nicht-sehr-zu-6846",
     "chapter": 8,
     "heading": "Nicht, Sehr, Zu",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Das Sofa ist nicht groß."
+      },
+      {
+        "type": "example",
+        "text": "Das Sofa ist groß."
+      },
+      {
+        "type": "example",
+        "text": "Das Sofa ist sehr groß."
+      },
+      {
+        "type": "example",
+        "text": "Das Sofa ist zu groß."
+      }
+    ],
     "raw": "Das Sofa ist nicht groß.\nDas Sofa ist groß.\nDas Sofa ist sehr groß.\nDas Sofa ist zu groß."
   },
   {
-    "id": "g-9-past-tense-of-haben-and-sein-7747",
+    "id": "g-9-past-tense-of-haben-and-sein-1381",
     "chapter": 9,
     "heading": "Past Tense Of Haben And Sein",
     "kind": "conjugation",
@@ -594,66 +1220,230 @@
         ]
       ]
     },
+    "items": [
+      {
+        "type": "note",
+        "text": "You can use the past tense to talk about things that have happened."
+      },
+      {
+        "type": "example",
+        "text": "Present Past Present Past sein haben ich bin war habe hatte du bist warst hast hattest er/es/sie ist war hat hatte wir sind waren haben hatten ihr seid wart habt hattet sie/Sie sind waren haben hatten Nominativ Akkusativ Singular mein Tisch meinen Tisch mein Bett mein Bett meine Lampe meine Lampe Plural meine Möbel meine Möbel"
+      },
+      {
+        "type": "note",
+        "text": "All other possessive articles are formed in the same way."
+      },
+      {
+        "type": "example",
+        "text": "Exception: eueren"
+      },
+      {
+        "type": "note",
+        "text": "Verb with the nominative: sein"
+      },
+      {
+        "type": "note",
+        "text": "Verbs with the accusative: brauchen, haben, sehen"
+      }
+    ],
     "raw": "You can use the past tense to talk about things that have happened.\nPresent Past Present Past\nsein haben\nich bin war habe hatte\ndu bist warst hast hattest\ner/es/sie ist war hat hatte\nwir sind waren haben hatten\nihr seid wart habt hattet\nsie/Sie sind waren haben hatten\nNominativ Akkusativ\nSingular mein Tisch meinen Tisch\nmein Bett mein Bett\nmeine Lampe meine Lampe\nPlural meine Möbel meine Möbel\nAll other possessive articles are formed in the same way.\nException: eueren\nVerb with the nominative: sein\nVerbs with the accusative: brauchen, haben, sehen"
   },
   {
-    "id": "g-9-recap-possessive-articles-in-the-accusative-78",
+    "id": "g-9-recap-possessive-articles-in-the-accusative-2814",
     "chapter": 9,
     "heading": "Recap: Possessive Articles In The Accusative",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Das ist Paul. Er sucht seinen Computer."
+      }
+    ],
     "raw": "Das ist Paul. Er sucht seinen Computer."
   },
   {
-    "id": "g-9-genitive-with-s-8955",
+    "id": "g-9-genitive-with-s-7376",
     "chapter": 9,
     "heading": "Genitive With -S",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "Nouns are used in the genitive to denote what belongs to whom, or to what a word refers."
+      },
+      {
+        "type": "note",
+        "text": "With proper names the genitive –s ending is used."
+      },
+      {
+        "type": "example",
+        "text": "➝ Carolines Kamera."
+      },
+      {
+        "type": "note",
+        "text": "If the proper name ends in -s, -tz, -x or -z, an apostrophe ‘ is used in written text."
+      },
+      {
+        "type": "example",
+        "text": "➝ Max’ Kamera."
+      },
+      {
+        "type": "note",
+        "text": "In speech the possessive form von + Name is used for names like this."
+      },
+      {
+        "type": "example",
+        "text": "➝ Die Kamera von Max."
+      }
+    ],
     "raw": "Nouns are used in the genitive to denote what belongs to whom, or to what a word refers.\nWith proper names the genitive –s ending is used.\n➝ Carolines Kamera.\nIf the proper name ends in -s, -tz, -x or -z, an apostrophe ‘ is used in written text.\n➝ Max’ Kamera.\nIn speech the possessive form von + Name is used for names like this.\n➝ Die Kamera von Max."
   },
   {
-    "id": "g-9-recap-position-of-the-verb-5539",
+    "id": "g-9-recap-position-of-the-verb-9557",
     "chapter": 9,
     "heading": "Recap: Position Of The Verb",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "Statement"
+      },
+      {
+        "type": "note",
+        "text": "Verb"
+      },
+      {
+        "type": "note",
+        "text": "Wir waren in Sydney."
+      },
+      {
+        "type": "note",
+        "text": "WH -question"
+      },
+      {
+        "type": "example",
+        "text": "Wie lange hatten Julia und Sam denn Urlaub?"
+      },
+      {
+        "type": "example",
+        "text": "Wie war denn eure Woche?"
+      },
+      {
+        "type": "note",
+        "text": "Yes/no question"
+      },
+      {
+        "type": "note",
+        "text": "Verb"
+      },
+      {
+        "type": "example",
+        "text": "Warst du auch in Melbourne?"
+      },
+      {
+        "type": "example",
+        "text": "War das Abendessen bei Sams Freunden schön?"
+      },
+      {
+        "type": "example",
+        "text": "Hattest du gestern viel Spaß?"
+      }
+    ],
     "raw": "Statement\nVerb\nWir waren in Sydney.\nWH -question\nWie lange hatten Julia und Sam denn Urlaub?\nWie war denn eure Woche?\nYes/no question\nVerb\nWarst du auch in Melbourne?\nWar das Abendessen bei Sams Freunden schön?\nHattest du gestern viel Spaß?"
   },
   {
-    "id": "g-10-prepositions-that-take-the-dative-aus-bei-mit-nach-seit-von-zu-6855",
+    "id": "g-10-prepositions-that-take-the-dative-aus-bei-mit-nach-seit-von-zu-9060",
     "chapter": 10,
     "heading": "Prepositions That Take The Dative: Aus, Bei, Mit, Nach, Seit, Von, Zu",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Preposition Dative article der Garten aus dem/einem Garten das Rezept mit dem/einem Rezept die Woche seit der/einer Woche die Freunde (Pl.) von den/Freunden"
+      },
+      {
+        "type": "note",
+        "text": "Most nouns end with –n in the dative plural."
+      },
+      {
+        "type": "example",
+        "text": "likewise: keinem/keiner; meinem/meiner, deinem/deiner, …"
+      }
+    ],
     "raw": "Preposition Dative article\nder Garten aus dem/einem Garten\ndas Rezept mit dem/einem Rezept\ndie Woche seit der/einer Woche\ndie Freunde (Pl.) von den/Freunden\nMost nouns end with –n in the dative plural.\nlikewise: keinem/keiner; meinem/meiner, deinem/deiner, …"
   },
   {
-    "id": "g-10-preposition-dative-articles-contraction-of-the-article-9160",
+    "id": "g-10-preposition-dative-articles-contraction-of-the-article-6153",
     "chapter": 10,
     "heading": "Preposition + Dative Articles > Contraction Of The Article",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "bei der Arzt bei + dem Ich war gestern beim Arzt."
+      },
+      {
+        "type": "example",
+        "text": "das Fest bei + dem Ich treffe ihn beim Fest."
+      },
+      {
+        "type": "example",
+        "text": "von der Bahnhof von + dem = vom Ich hole dich vom Bahnhof ab."
+      },
+      {
+        "type": "example",
+        "text": "das Büro von + dem = vom Sie fährt vom Büro ins Fitnessstudio."
+      },
+      {
+        "type": "example",
+        "text": "zu der Garten zu + dem = zum Wir fahren zum Garten."
+      },
+      {
+        "type": "example",
+        "text": "das Interview zu + dem = zum Er kommt zu spät zum Interview."
+      },
+      {
+        "type": "example",
+        "text": "die Schule zu + der = zur Ich gehe zur Schule."
+      }
+    ],
     "raw": "bei\nder Arzt bei + dem Ich war gestern beim Arzt.\ndas Fest bei + dem Ich treffe ihn beim Fest.\nvon\nder Bahnhof von + dem = vom Ich hole dich vom Bahnhof ab.\ndas Büro von + dem = vom Sie fährt vom Büro ins Fitnessstudio.\nzu\nder Garten zu + dem = zum Wir fahren zum Garten.\ndas Interview zu + dem = zum Er kommt zu spät zum Interview.\ndie Schule zu + der = zur Ich gehe zur Schule."
   },
   {
-    "id": "g-10-definite-articles-in-the-nominative-accusative-and-dative-935",
+    "id": "g-10-definite-articles-in-the-nominative-accusative-and-dative-2330",
     "chapter": 10,
     "heading": "Definite Articles In The Nominative, Accusative And Dative",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Nominative der das die die (Plural) Accusative den das die die (Plural) Dative dem dem der den (Plural)"
+      }
+    ],
     "raw": "Nominative der das die die (Plural)\nAccusative den das die die (Plural)\nDative dem dem der den (Plural)"
   },
   {
-    "id": "g-10-indefinite-and-negative-articles-in-the-nominative-accusative-and-dative-486",
+    "id": "g-10-indefinite-and-negative-articles-in-the-nominative-accusative-and-dative-4199",
     "chapter": 10,
     "heading": "Indefinite And Negative Articles In The Nominative, Accusative And Dative",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Nominative ein ein eine Ø Accusative einen ein eine Ø Dative einem einem einer Ø Nominative kein kein keine keine Accusativ keinen kein keine keine Dative keinem keinem keiner keinen likewise: mein/meinen/meinem, mein/mein/meinem, meine/meine/meiner, meine/meine/meinen …"
+      }
+    ],
     "raw": "Nominative ein ein eine Ø\nAccusative einen ein eine Ø\nDative einem einem einer Ø\nNominative kein kein keine keine\nAccusativ keinen kein keine keine\nDative keinem keinem keiner keinen\nlikewise: mein/meinen/meinem, mein/mein/meinem, meine/meine/meiner, meine/meine/meinen …"
   },
   {
-    "id": "g-11-personal-pronouns-in-the-dative-7562",
+    "id": "g-11-personal-pronouns-in-the-dative-2442",
     "chapter": 11,
     "heading": "Personal Pronouns In The Dative",
     "kind": "conjugation",
@@ -678,58 +1468,216 @@
         ]
       ]
     },
+    "items": [
+      {
+        "type": "example",
+        "text": "Nominative Dative ich mir du dir er ihm es ihm sie ihr wir uns ihr euch sie/Sie Ihnen"
+      },
+      {
+        "type": "note",
+        "text": "Verbs that take the dative"
+      },
+      {
+        "type": "example",
+        "text": "helfen Wie kann ich Ihnen helfen?"
+      },
+      {
+        "type": "example",
+        "text": "danken Ich danke Ihnen!"
+      },
+      {
+        "type": "example",
+        "text": "geben Gibst du mir den Stadtplan?"
+      },
+      {
+        "type": "example",
+        "text": "zeigen Können Sie uns das zeigen?"
+      },
+      {
+        "type": "example",
+        "text": "schenken Ich schenke ihm das Buch."
+      },
+      {
+        "type": "example",
+        "text": "empfehlen Ich empfehle Ihnen den Weißen Bock."
+      },
+      {
+        "type": "example",
+        "text": "gefallen Gefällt dir das Buch?"
+      }
+    ],
     "raw": "Nominative Dative\nich mir\ndu dir\ner ihm\nes ihm\nsie ihr\nwir uns\nihr euch\nsie/Sie Ihnen\nVerbs that take the dative\nhelfen Wie kann ich Ihnen helfen?\ndanken Ich danke Ihnen!\ngeben Gibst du mir den Stadtplan?\nzeigen Können Sie uns das zeigen?\nschenken Ich schenke ihm das Buch.\nempfehlen Ich empfehle Ihnen den Weißen Bock.\ngefallen Gefällt dir das Buch?"
   },
   {
-    "id": "g-11-the-pronoun-man-1447",
+    "id": "g-11-the-pronoun-man-9437",
     "chapter": 11,
     "heading": "The Pronoun Man",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "man is an impersonal indefinite pronoun that can stand for one or more unspecified persons."
+      },
+      {
+        "type": "note",
+        "text": "man + verb in the 3rd person singular"
+      },
+      {
+        "type": "example",
+        "text": "Zu einem Termin mit dem Chef kommt man pünktlich."
+      },
+      {
+        "type": "example",
+        "text": "In Deutschland kommt man pünktlich."
+      }
+    ],
     "raw": "man is an impersonal indefinite pronoun that can stand for one or more unspecified persons.\nman + verb in the 3rd person singular\nZu einem Termin mit dem Chef kommt man pünktlich.\nIn Deutschland kommt man pünktlich."
   },
   {
-    "id": "g-11-grammar-4522",
+    "id": "g-11-grammar-6645",
     "chapter": 11,
     "heading": "Grammar",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "Statement"
+      },
+      {
+        "type": "note",
+        "text": "Modal verb Sentence bracket Infinitive"
+      },
+      {
+        "type": "example",
+        "text": "Natürlich kann ich dir helfen."
+      }
+    ],
     "raw": "Statement\nModal verb Sentence bracket Infinitive\nNatürlich kann ich dir helfen."
   },
   {
-    "id": "g-11-recap-modal-verbs-in-a-sentence-7469",
+    "id": "g-11-recap-modal-verbs-in-a-sentence-5550",
     "chapter": 11,
     "heading": "Recap: Modal Verbs In A Sentence",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "Yes/no question"
+      },
+      {
+        "type": "note",
+        "text": "Modal verb Sentence bracket Infinitive"
+      },
+      {
+        "type": "example",
+        "text": "Kannst du heute kommen?"
+      }
+    ],
     "raw": "Yes/no question\nModal verb Sentence bracket Infinitive\nKannst du heute kommen?"
   },
   {
-    "id": "g-11-the-infinitive-in-written-instructions-9970",
+    "id": "g-11-the-infinitive-in-written-instructions-1936",
     "chapter": 11,
     "heading": "The Infinitive In Written Instructions",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "The infinitive is often used for written instructions."
+      },
+      {
+        "type": "example",
+        "text": "Einstellungen öffnen."
+      },
+      {
+        "type": "example",
+        "text": "Kopie wählen."
+      },
+      {
+        "type": "example",
+        "text": "Auf Ok drücken."
+      }
+    ],
     "raw": "The infinitive is often used for written instructions.\nEinstellungen öffnen.\nKopie wählen.\nAuf Ok drücken."
   },
   {
-    "id": "g-12-where-is-preposition-dative-7796",
+    "id": "g-12-where-is-preposition-dative-8113",
     "chapter": 12,
     "heading": "Where Is …? Preposition + Dative",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Wo ist der Kalender?"
+      },
+      {
+        "type": "example",
+        "text": "Der Kalender ist auf dem Tisch / neben dem Telefon / an der Wand."
+      },
+      {
+        "type": "example",
+        "text": "Wo ist das Plakat? an: an dem = am An der Wand. / Am Regal."
+      },
+      {
+        "type": "example",
+        "text": "Wo ist das Handy? auf Auf dem Tisch."
+      },
+      {
+        "type": "example",
+        "text": "Wo ist das Buch? in: in dem = im In der Tasche. / Im Schrank."
+      },
+      {
+        "type": "example",
+        "text": "Wo ist der Stift? neben Neben dem Telefon."
+      },
+      {
+        "type": "example",
+        "text": "Wo ist der Drucker? zwischen Zwischen dem Regal und dem Schrank. / Zwischen den Regalen."
+      },
+      {
+        "type": "example",
+        "text": "Wo sind die Visitenkarten? vor/hinter Vor/hinter dem Telefon."
+      },
+      {
+        "type": "example",
+        "text": "Wo ist das Plakat? über/unter Über/Unter dem Tisch."
+      },
+      {
+        "type": "example",
+        "text": "auf unter neben an vor hinter zwischen in über"
+      }
+    ],
     "raw": "Wo ist der Kalender?\nDer Kalender ist auf dem Tisch / neben dem Telefon / an der Wand.\nWo ist das Plakat? an: an dem = am An der Wand. / Am Regal.\nWo ist das Handy? auf Auf dem Tisch.\nWo ist das Buch? in: in dem = im In der Tasche. / Im Schrank.\nWo ist der Stift? neben Neben dem Telefon.\nWo ist der Drucker? zwischen Zwischen dem Regal und dem Schrank. /\nZwischen den Regalen.\nWo sind die Visitenkarten? vor/hinter Vor/hinter dem Telefon.\nWo ist das Plakat? über/unter Über/Unter dem Tisch.\nauf unter neben an vor hinter zwischen in über"
   },
   {
-    "id": "g-12-temporal-adverbs-8780",
+    "id": "g-12-temporal-adverbs-6533",
     "chapter": 12,
     "heading": "Temporal Adverbs",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "zuerst > dann/danach/später > zuletzt Zuerst erklären wir das Konzept."
+      },
+      {
+        "type": "example",
+        "text": "Dann sprechen wir über die Ideen."
+      },
+      {
+        "type": "example",
+        "text": "… Zuletzt machen wir einen Zeitplan."
+      }
+    ],
     "raw": "zuerst > dann/danach/später > zuletzt\nZuerst erklären wir das Konzept.\nDann sprechen wir über die Ideen.\n…\nZuletzt machen wir einen Zeitplan."
   },
   {
-    "id": "g-12-d-rfen-8204",
+    "id": "g-12-d-rfen-2128",
     "chapter": 12,
     "heading": "Dürfen",
     "kind": "conjugation",
@@ -754,50 +1702,114 @@
         ]
       ]
     },
+    "items": [
+      {
+        "type": "example",
+        "text": "ich darf du darfst er, es, sie darf wir dürfen ihr dürft sie/Sie dürfen"
+      }
+    ],
     "raw": "ich darf\ndu darfst\ner, es, sie darf\nwir dürfen\nihr dürft\nsie/Sie dürfen"
   },
   {
-    "id": "g-12-recap-position-in-the-sentence-3554",
+    "id": "g-12-recap-position-in-the-sentence-1934",
     "chapter": 12,
     "heading": "Recap: Position In The Sentence",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Sie Zuerst putzt putzt zuerst sie das Bad."
+      },
+      {
+        "type": "example",
+        "text": "das Bad."
+      }
+    ],
     "raw": "Sie\nZuerst\nputzt\nputzt\nzuerst\nsie\ndas Bad.\ndas Bad."
   },
   {
-    "id": "g-12-nicht-d-rfen-nicht-m-ssen-3158",
+    "id": "g-12-nicht-d-rfen-nicht-m-ssen-7381",
     "chapter": 12,
     "heading": "(Nicht) Dürfen / (Nicht) Müssen",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Man muss hier warten. Man muss hier nicht warten."
+      },
+      {
+        "type": "example",
+        "text": "Man darf hier telefonieren. Man darf hier nicht telefonieren."
+      }
+    ],
     "raw": "Man muss hier warten. Man muss hier nicht warten.\nMan darf hier telefonieren. Man darf hier nicht telefonieren."
   },
   {
-    "id": "g-13-prepositions-that-take-the-accusative-ohne-f-r-1384",
+    "id": "g-13-prepositions-that-take-the-accusative-ohne-f-r-4285",
     "chapter": 13,
     "heading": "Prepositions That Take The Accusative: Ohne, Für",
     "kind": "conjugation",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "der Bus ohne den Bus das Auto ohne das Auto die Frau für die Frau die Kinder (Pl.) für die Kinder ich, du für/ohne mich, dich …"
+      }
+    ],
     "raw": "der Bus ohne den Bus\ndas Auto ohne das Auto\ndie Frau für die Frau\ndie Kinder (Pl.) für die Kinder\nich, du für/ohne mich, dich …"
   },
   {
-    "id": "g-13-prepositions-that-take-the-dative-mit-7976",
+    "id": "g-13-prepositions-that-take-the-dative-mit-7825",
     "chapter": 13,
     "heading": "Prepositions That Take The Dative: Mit",
     "kind": "conjugation",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "der Bus mit dem Bus das Fahrrad mit dem Fahrrad die Oma mit der Oma die Kinder (Pl.) mit den Kindern ich, du … mit mir, dir … likewise: aus, bei …"
+      }
+    ],
     "raw": "der Bus mit dem Bus\ndas Fahrrad mit dem Fahrrad\ndie Oma mit der Oma\ndie Kinder (Pl.) mit den Kindern\nich, du … mit mir, dir …\nlikewise: aus, bei …"
   },
   {
-    "id": "g-13-recap-imperatives-3280",
+    "id": "g-13-recap-imperatives-3204",
     "chapter": 13,
     "heading": "Recap: Imperatives",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Imperative du/ihr du räumst auf du bringst mit du rufst an du kaufst ihr räumt auf Ihr bestellt ➝ Räum ➝ Bring ➝ Ruf ➝ Kauf ➝ Räumt ➝ Bestellt dein Zimmer Wein und Obst die Firma Novotec Brot und Butter."
+      },
+      {
+        "type": "example",
+        "text": "eure Zimmer euch doch eine Pizza."
+      },
+      {
+        "type": "example",
+        "text": "auf!"
+      },
+      {
+        "type": "example",
+        "text": "mit!"
+      },
+      {
+        "type": "example",
+        "text": "an!"
+      },
+      {
+        "type": "example",
+        "text": "auf!"
+      }
+    ],
     "raw": "Imperative du/ihr\ndu räumst auf\ndu bringst mit\ndu rufst an\ndu kaufst\nihr räumt auf\nIhr bestellt\n➝ Räum\n➝ Bring\n➝ Ruf\n➝ Kauf\n➝ Räumt\n➝ Bestellt\ndein Zimmer\nWein und Obst\ndie Firma Novotec\nBrot und Butter.\neure Zimmer\neuch doch eine Pizza.\nauf!\nmit!\nan!\nauf!"
   },
   {
-    "id": "g-13-the-modal-verb-sollen-870",
+    "id": "g-13-the-modal-verb-sollen-1584",
     "chapter": 13,
     "heading": "The Modal Verb Sollen",
     "kind": "conjugation",
@@ -826,122 +1838,424 @@
         ]
       ]
     },
+    "items": [
+      {
+        "type": "example",
+        "text": "ich soll du sollst er/es/sie soll wir sollen ihr sollt sie/Sie sollen Papa schreibt, … … ich soll die Wäsche aufhängen."
+      },
+      {
+        "type": "example",
+        "text": "… Lina soll Englischvokabeln lernen."
+      },
+      {
+        "type": "example",
+        "text": "… wir sollen unsere Zimmer aufräumen."
+      }
+    ],
     "raw": "ich soll\ndu sollst\ner/es/sie soll\nwir sollen\nihr sollt\nsie/Sie sollen\nPapa schreibt, …\n… ich soll die Wäsche aufhängen.\n… Lina soll Englischvokabeln lernen.\n… wir sollen unsere Zimmer aufräumen."
   },
   {
-    "id": "g-13-recap-modal-verbs-in-a-sentence-9540",
+    "id": "g-13-recap-modal-verbs-in-a-sentence-163",
     "chapter": 13,
     "heading": "Recap: Modal Verbs In A Sentence",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "Modal verb Sentence bracket Infinitive"
+      },
+      {
+        "type": "example",
+        "text": "Lina soll Englischvokabeln lernen."
+      },
+      {
+        "type": "example",
+        "text": "Wir sollen für das Abendessen einkaufen."
+      }
+    ],
     "raw": "Modal verb Sentence bracket Infinitive\nLina soll Englischvokabeln lernen.\nWir sollen für das Abendessen einkaufen."
   },
   {
-    "id": "g-13-question-words-1938",
+    "id": "g-13-question-words-9867",
     "chapter": 13,
     "heading": "Question Words",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "nominative Wer? Wer ist das? – Mein Sohn."
+      },
+      {
+        "type": "example",
+        "text": "accusative Wen? Wen triffst du heute Abend? – Einen Freund."
+      },
+      {
+        "type": "example",
+        "text": "dative Wem? Mit wem gehst du ins Konzert? – Mit meiner Mutter."
+      }
+    ],
     "raw": "nominative Wer? Wer ist das? – Mein Sohn.\naccusative Wen? Wen triffst du heute Abend? – Einen Freund.\ndative Wem? Mit wem gehst du ins Konzert? – Mit meiner Mutter."
   },
   {
-    "id": "g-13-demonstrativartikel-3577",
+    "id": "g-13-demonstrativartikel-7057",
     "chapter": 13,
     "heading": "Demonstrativartikel",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "masculine neuter feminine plural"
+      },
+      {
+        "type": "example",
+        "text": "nominative dieser dieses diese diese accusative diesen dieses diese diese dative diesem diesem dieser diesen"
+      }
+    ],
     "raw": "masculine neuter feminine plural\nnominative dieser dieses diese diese\naccusative diesen dieses diese diese\ndative diesem diesem dieser diesen"
   },
   {
-    "id": "g-14-grammar-615",
+    "id": "g-14-grammar-4508",
     "chapter": 14,
     "heading": "Grammar",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "Yes/no question"
+      },
+      {
+        "type": "note",
+        "text": "Modal verb Sentence bracket Infinitive"
+      },
+      {
+        "type": "example",
+        "text": "Möchte Kann er mit Kindern er Englisch arbeiten?"
+      },
+      {
+        "type": "example",
+        "text": "sprechen?"
+      }
+    ],
     "raw": "Yes/no question\nModal verb Sentence bracket Infinitive\nMöchte\nKann\ner mit Kindern\ner Englisch\narbeiten?\nsprechen?"
   },
   {
-    "id": "g-14-recap-modal-verbs-in-the-sentence-8929",
+    "id": "g-14-recap-modal-verbs-in-the-sentence-2932",
     "chapter": 14,
     "heading": "Recap: Modal Verbs In The Sentence",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "Statement and WH -question"
+      },
+      {
+        "type": "note",
+        "text": "Modal verb Sentence bracket Infinitive"
+      },
+      {
+        "type": "example",
+        "text": "Tobias Warum will muss als Sportlehrerer er arbeiten."
+      },
+      {
+        "type": "example",
+        "text": "arbeiten?"
+      }
+    ],
     "raw": "Statement and WH -question\nModal verb Sentence bracket Infinitive\nTobias\nWarum\nwill\nmuss\nals Sportlehrerer\ner\narbeiten.\narbeiten?"
   },
   {
-    "id": "g-14-the-perfect-tense-talking-about-the-past-3007",
+    "id": "g-14-the-perfect-tense-talking-about-the-past-5566",
     "chapter": 14,
     "heading": "The Perfect Tense – Talking About The Past",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "In German, the perfect is formed with haben/sein and Participle II."
+      },
+      {
+        "type": "note",
+        "text": "Auxiliary verb Sentence bracket Participle II"
+      },
+      {
+        "type": "example",
+        "text": "Julian Gestern hat ist gestern viele Interviews Julian ins Stadtzentrum gemacht."
+      },
+      {
+        "type": "example",
+        "text": "gefahren."
+      },
+      {
+        "type": "note",
+        "text": "Formation of Participle II:"
+      },
+      {
+        "type": "example",
+        "text": "Regular verbs: ge- … -(e)t machen ➝ gemacht zeigen ➝ gezeigt Irregular verbs: ge- … -en fahren ➝ gefahren sehen ➝ gesehen"
+      },
+      {
+        "type": "note",
+        "text": "Perfect with sein for verbs with movement A ➝ B"
+      },
+      {
+        "type": "example",
+        "text": "Er ist gestern nach Hamburg gefahren."
+      },
+      {
+        "type": "example",
+        "text": "➝ gehen, fahren, kommen, … Note: bleiben"
+      }
+    ],
     "raw": "In German, the perfect is formed with haben/sein and Participle II.\nAuxiliary verb Sentence bracket Participle II\nJulian\nGestern\nhat\nist\ngestern viele Interviews\nJulian ins Stadtzentrum\ngemacht.\ngefahren.\nFormation of Participle II:\nRegular verbs: ge- … -(e)t\nmachen ➝ gemacht\nzeigen ➝ gezeigt\nIrregular verbs: ge- … -en\nfahren ➝ gefahren\nsehen ➝ gesehen\nPerfect with sein for verbs with movement A ➝ B\nEr ist gestern nach Hamburg gefahren.\n➝ gehen, fahren, kommen, …\nNote: bleiben"
   },
   {
-    "id": "g-14-position-of-verbs-in-the-sentence-5989",
+    "id": "g-14-position-of-verbs-in-the-sentence-9340",
     "chapter": 14,
     "heading": "Position Of Verbs In The Sentence",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "Statement and WH -question"
+      },
+      {
+        "type": "note",
+        "text": "Auxiliary verb Sentence bracket Participle II"
+      },
+      {
+        "type": "example",
+        "text": "Julian Warum hat sind viele Interviews Sie zu spät zum Meeting gemacht."
+      },
+      {
+        "type": "example",
+        "text": "gekommen?"
+      },
+      {
+        "type": "note",
+        "text": "Yes/no question"
+      },
+      {
+        "type": "note",
+        "text": "Auxiliary verb Sentence bracket Participle II"
+      },
+      {
+        "type": "example",
+        "text": "Hast du lange auf mich gewartet?"
+      }
+    ],
     "raw": "Statement and WH -question\nAuxiliary verb Sentence bracket Participle II\nJulian\nWarum\nhat\nsind\nviele Interviews\nSie zu spät zum Meeting\ngemacht.\ngekommen?\nYes/no question\nAuxiliary verb Sentence bracket Participle II\nHast du lange auf mich gewartet?"
   },
   {
-    "id": "g-14-recap-positions-in-the-sentence-7284",
+    "id": "g-14-recap-positions-in-the-sentence-3059",
     "chapter": 14,
     "heading": "Recap: Positions In The Sentence",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Sie Nach der Schule hat hat nach der Schule sie eine Ausbildung eine Ausbildung gemacht."
+      },
+      {
+        "type": "example",
+        "text": "gemacht."
+      },
+      {
+        "type": "note",
+        "text": "The subject can be before or after the verb in the statement."
+      },
+      {
+        "type": "note",
+        "text": "The verb is always in Position 2."
+      }
+    ],
     "raw": "Sie\nNach der Schule\nhat\nhat\nnach der Schule\nsie\neine Ausbildung\neine Ausbildung\ngemacht.\ngemacht.\nThe subject can be before or after the verb in the statement.\nThe verb is always in Position 2."
   },
   {
-    "id": "g-14-recap-dates-3766",
+    "id": "g-14-recap-dates-9376",
     "chapter": 14,
     "heading": "Recap: Dates",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Welches Datum ist heute? Wann haben Sie Geburtstag?"
+      },
+      {
+        "type": "example",
+        "text": "Der erste (1.) zweite (2.) dritte (3.) … Juni siebte (7.) dreizehnte (13.) siebenundzwanzigste (27.) Am ersten (1.) zweiten (2.) dritten (3.) … Juni siebten (7.) dreizehnten (13.) siebenundzwanzigsten (27.) Wann sind Sie geboren?"
+      },
+      {
+        "type": "example",
+        "text": "Am ersten (1.) zweiten (2.) Juni 1975 (neunzehnhundertfünfundsiebzig)."
+      },
+      {
+        "type": "example",
+        "text": "dritten (3.) Juni 1990 (neunzehnhundertneunzig)."
+      },
+      {
+        "type": "example",
+        "text": "siebten (7.) Juni 2005 (zweitausendfünf)."
+      },
+      {
+        "type": "example",
+        "text": "dreizehnten (13.) siebenundzwanzigsten (27.)"
+      }
+    ],
     "raw": "Welches Datum ist heute? Wann haben Sie Geburtstag?\nDer\nerste (1.)\nzweite (2.)\ndritte (3.) … Juni\nsiebte (7.)\ndreizehnte (13.)\nsiebenundzwanzigste (27.)\nAm\nersten (1.)\nzweiten (2.)\ndritten (3.) … Juni\nsiebten (7.)\ndreizehnten (13.)\nsiebenundzwanzigsten (27.)\nWann sind Sie geboren?\nAm\nersten (1.)\nzweiten (2.) Juni 1975 (neunzehnhundertfünfundsiebzig).\ndritten (3.) Juni 1990 (neunzehnhundertneunzig).\nsiebten (7.) Juni 2005 (zweitausendfünf).\ndreizehnten (13.)\nsiebenundzwanzigsten (27.)"
   },
   {
-    "id": "g-15-perfect-tense-of-separable-verbs-and-verbs-ending-in-ieren-6509",
+    "id": "g-15-perfect-tense-of-separable-verbs-and-verbs-ending-in-ieren-2990",
     "chapter": 15,
     "heading": "Perfect Tense Of Separable Verbs And Verbs Ending In -Ieren",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "Verbs ending in -ieren Separable verbs"
+      },
+      {
+        "type": "example",
+        "text": "Participle: …t Ich habe trainiert."
+      },
+      {
+        "type": "example",
+        "text": "Er hat telefoniert."
+      },
+      {
+        "type": "example",
+        "text": "Regular verbs Participle: …ge…(e)t Sie hat das Zimmer aufgeräumt."
+      },
+      {
+        "type": "example",
+        "text": "Irregular verbs Participle: …ge…en Er ist am Montag angekommen."
+      }
+    ],
     "raw": "Verbs ending in -ieren Separable verbs\nParticiple: …t\nIch habe trainiert.\nEr hat telefoniert.\nRegular verbs\nParticiple: …ge…(e)t\nSie hat das Zimmer aufgeräumt.\nIrregular verbs\nParticiple: …ge…en\nEr ist am Montag angekommen."
   },
   {
-    "id": "g-15-perfect-participle-of-inseparable-verbs-7330",
+    "id": "g-15-perfect-participle-of-inseparable-verbs-946",
     "chapter": 15,
     "heading": "Perfect Participle Of Inseparable Verbs",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "In German some verbs have an inseparable prefix, for instance"
+      },
+      {
+        "type": "example",
+        "text": "besuchen, bekommen, entschuldigen, erklären, vergessen …"
+      },
+      {
+        "type": "note",
+        "text": "These verbs form the past participle without ge-."
+      },
+      {
+        "type": "example",
+        "text": "Participle: Regular verbs: …t Meine Mutter hat uns besucht."
+      },
+      {
+        "type": "example",
+        "text": "Irregular verbs: …en Ich habe das Medikament vergessen."
+      }
+    ],
     "raw": "In German some verbs have an inseparable prefix, for instance\nbesuchen, bekommen, entschuldigen, erklären, vergessen …\nThese verbs form the past participle without ge-.\nParticiple:\nRegular verbs: …t\nMeine Mutter hat uns besucht.\nIrregular verbs: …en\nIch habe das Medikament vergessen."
   },
   {
-    "id": "g-15-recap-perfect-with-haben-or-sein-8775",
+    "id": "g-15-recap-perfect-with-haben-or-sein-6688",
     "chapter": 15,
     "heading": "Recap: Perfect With Haben Or Sein",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "In German the perfect tense is formed with haben/sein und Participle II."
+      },
+      {
+        "type": "note",
+        "text": "Perfect with sein: verbs with movement A ➝ B"
+      },
+      {
+        "type": "example",
+        "text": "Ich bin nach Hamburg gefahren."
+      },
+      {
+        "type": "example",
+        "text": "➝ gehen, fahren, kommen, reisen, schwimmen Note: bleiben, passieren"
+      },
+      {
+        "type": "note",
+        "text": "Learning tip: learn the verbs that take sein in the context of an example sentence."
+      }
+    ],
     "raw": "In German the perfect tense is formed with haben/sein und Participle II.\nPerfect with sein: verbs with movement A ➝ B\nIch bin nach Hamburg gefahren.\n➝ gehen, fahren, kommen, reisen, schwimmen\nNote: bleiben, passieren\nLearning tip: learn the verbs that take sein in the context of an example sentence."
   },
   {
-    "id": "g-15-recap-imperative-clause-1381",
+    "id": "g-15-recap-imperative-clause-4817",
     "chapter": 15,
     "heading": "Recap: Imperative Clause",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Imperative du/ihr/Sie du stehst du hältst ihr steht ihr haltet Sie halten → Steh → Halt(e) → Steht → Haltet → Halten auf beiden Beinen!"
+      },
+      {
+        "type": "example",
+        "text": "den Rücken gerade!"
+      },
+      {
+        "type": "example",
+        "text": "auf beiden Beinen!"
+      },
+      {
+        "type": "example",
+        "text": "den Rücken gerade!"
+      },
+      {
+        "type": "example",
+        "text": "Sie den Rücken gerade!"
+      }
+    ],
     "raw": "Imperative du/ihr/Sie\ndu stehst\ndu hältst\nihr steht\nihr haltet\nSie halten\n→ Steh\n→ Halt(e)\n→ Steht\n→ Haltet\n→ Halten\nauf beiden Beinen!\nden Rücken gerade!\nauf beiden Beinen!\nden Rücken gerade!\nSie den Rücken gerade!"
   },
   {
-    "id": "g-16-possessive-articles-in-the-dative-1938",
+    "id": "g-16-possessive-articles-in-the-dative-1796",
     "chapter": 16,
     "heading": "Possessive Articles In The Dative",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Nominative Dative mein Freund meinem Freund mein Kind meinem Kind meine Mutter meiner Mutter meine Freundinnen meinen Freundinnen"
+      },
+      {
+        "type": "note",
+        "text": "The possessive articles dein, sein, ihr, unser, euer, Ihr are formed in the same way."
+      },
+      {
+        "type": "example",
+        "text": "Note: euer ➝ euerem/euerer/eueren"
+      }
+    ],
     "raw": "Nominative Dative\nmein Freund meinem Freund\nmein Kind meinem Kind\nmeine Mutter meiner Mutter\nmeine Freundinnen meinen Freundinnen\nThe possessive articles dein, sein, ihr, unser, euer, Ihr are formed in the same way.\nNote: euer ➝ euerem/euerer/eueren"
   },
   {
-    "id": "g-16-recap-personal-pronouns-in-the-dative-987",
+    "id": "g-16-recap-personal-pronouns-in-the-dative-3463",
     "chapter": 16,
     "heading": "Recap: Personal Pronouns In The Dative",
     "kind": "conjugation",
@@ -966,54 +2280,224 @@
         ]
       ]
     },
+    "items": [
+      {
+        "type": "example",
+        "text": "Nominative Dative ich mir du dir er ihm es ihm sie ihr wir uns ihr euch sie/Sie Ihnen"
+      },
+      {
+        "type": "note",
+        "text": "Verbs that take the dative"
+      },
+      {
+        "type": "example",
+        "text": "helfen: Kann ich Ihnen helfen?"
+      },
+      {
+        "type": "example",
+        "text": "gefallen: Gefällt dir das Buch?"
+      },
+      {
+        "type": "example",
+        "text": "stehen: Das Kleid steht ihr sehr gut."
+      },
+      {
+        "type": "example",
+        "text": "passen: Passt ihm der Pullover?"
+      }
+    ],
     "raw": "Nominative Dative\nich mir\ndu dir\ner ihm\nes ihm\nsie ihr\nwir uns\nihr euch\nsie/Sie Ihnen\nVerbs that take the dative\nhelfen: Kann ich Ihnen helfen?\ngefallen: Gefällt dir das Buch?\nstehen: Das Kleid steht ihr sehr gut.\npassen: Passt ihm der Pullover?"
   },
   {
-    "id": "g-16-grammar-4331",
+    "id": "g-16-grammar-6679",
     "chapter": 16,
     "heading": "Grammar",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "WELCHER? ➝ DIESER."
+      },
+      {
+        "type": "example",
+        "text": "Nominative Accusative der Rock welcher? dieser welchen? diesen das T-Shirt welches? dieses welches? dieses die Jeans welche? diese welche? diese die Schuhe welche? diese welche? diese Das Hemd gefällt mir. Welches Hemd? Dieses."
+      },
+      {
+        "type": "example",
+        "text": "Ich finde diesen Rock schön. Welchen Rock? Diesen da."
+      }
+    ],
     "raw": "WELCHER? ➝ DIESER.\nNominative Accusative\nder Rock welcher? dieser welchen? diesen\ndas T-Shirt welches? dieses welches? dieses\ndie Jeans welche? diese welche? diese\ndie Schuhe welche? diese welche? diese\nDas Hemd gefällt mir. Welches Hemd? Dieses.\nIch finde diesen Rock schön. Welchen Rock? Diesen da."
   },
   {
-    "id": "g-17-wohin-preposition-accusative-6350",
+    "id": "g-17-wohin-preposition-accusative-7789",
     "chapter": 17,
     "heading": "Wohin? – Preposition + Accusative",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Wohin? Preposition + Accusative Wohin fahren wir?"
+      },
+      {
+        "type": "example",
+        "text": "Nach München, Basel, Istanbul … Marokko, Norwegen, Spanien …"
+      },
+      {
+        "type": "note",
+        "text": "(Names of towns/cities and countries without articles)"
+      },
+      {
+        "type": "example",
+        "text": "in den Iran / in die Türkei, in die Schweiz/ in die USA, …"
+      },
+      {
+        "type": "note",
+        "text": "(Names of countries with articles)"
+      },
+      {
+        "type": "example",
+        "text": "in den Süden … Wohin gehen wir? in den Park / ins Kino / in die Stadt in das = ins"
+      }
+    ],
     "raw": "Wohin? Preposition + Accusative\nWohin fahren wir?\nNach München, Basel, Istanbul … Marokko, Norwegen, Spanien …\n(Names of towns/cities and countries without articles)\nin den Iran / in die Türkei, in die Schweiz/ in die USA, …\n(Names of countries with articles)\nin den Süden …\nWohin gehen wir? in den Park / ins Kino / in die Stadt\nin das = ins"
   },
   {
-    "id": "g-17-recap-wo-ist-preposition-dative-7715",
+    "id": "g-17-recap-wo-ist-preposition-dative-171",
     "chapter": 17,
     "heading": "Recap: Wo Ist …? – Preposition + Dative",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Wo ist der Koffer?"
+      },
+      {
+        "type": "example",
+        "text": "Der Koffer ist unter dem Tisch / neben dem Bett / an der Tür."
+      },
+      {
+        "type": "example",
+        "text": "in dem = im Der Koffer ist im Schrank."
+      },
+      {
+        "type": "example",
+        "text": "an dem = am Der Koffer ist am Bett."
+      },
+      {
+        "type": "example",
+        "text": "auf unter neben an vor hinter zwischen in über"
+      }
+    ],
     "raw": "Wo ist der Koffer?\nDer Koffer ist unter dem Tisch / neben dem Bett / an der Tür.\nin dem = im Der Koffer ist im Schrank.\nan dem = am Der Koffer ist am Bett.\nauf unter neben an vor hinter zwischen in über"
   },
   {
-    "id": "g-17-packing-6716",
+    "id": "g-17-packing-1587",
     "chapter": 17,
     "heading": "Packing",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "Wohin stellt/legt/hängt er …? – Preposition + Accusative Er stellt den Rucksack in den Schrank."
+      },
+      {
+        "type": "example",
+        "text": "Er legt den Rucksack neben das Regal."
+      },
+      {
+        "type": "example",
+        "text": "Er hängt den Rucksack an die Wand."
+      },
+      {
+        "type": "example",
+        "text": "in das = ins an das = ans Wo steht/liegt/hängt …? – Preposition + Dative Der Rucksack steht unter dem Tisch."
+      },
+      {
+        "type": "example",
+        "text": "Der Rucksack liegt auf dem Bett."
+      },
+      {
+        "type": "example",
+        "text": "Der Rucksack hängt an der Tür."
+      },
+      {
+        "type": "example",
+        "text": "in dem = im an dem = am"
+      }
+    ],
     "raw": "Wohin stellt/legt/hängt er …? – Preposition + Accusative\nEr stellt den Rucksack in den Schrank.\nEr legt den Rucksack neben das Regal.\nEr hängt den Rucksack an die Wand.\nin das = ins\nan das = ans\nWo steht/liegt/hängt …? – Preposition + Dative\nDer Rucksack steht unter dem Tisch.\nDer Rucksack liegt auf dem Bett.\nDer Rucksack hängt an der Tür.\nin dem = im\nan dem = am"
   },
   {
-    "id": "g-18-linking-clauses-with-und-oder-aber-denn-8022",
+    "id": "g-18-linking-clauses-with-und-oder-aber-denn-375",
     "chapter": 18,
     "heading": "Linking Clauses With Und, Oder, Aber, Denn",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "example",
+        "text": "und (listing) Ich arbeite in einem Coworking-Büro und nutze oft den Meeting-Raum."
+      },
+      {
+        "type": "example",
+        "text": "oder (alternative) Man kann zu Hause arbeiten oder einen Schreibtisch mieten."
+      },
+      {
+        "type": "example",
+        "text": "aber (opposite) Man arbeitet sehr flexibel, aber man arbeitet oft auch am Wochenende."
+      },
+      {
+        "type": "example",
+        "text": "denn (reason) Ein Studium ist wichtig, denn man lernt viel."
+      }
+    ],
     "raw": "und (listing)\nIch arbeite in einem Coworking-Büro und nutze oft den Meeting-Raum.\noder (alternative)\nMan kann zu Hause arbeiten oder einen Schreibtisch mieten.\naber (opposite)\nMan arbeitet sehr flexibel, aber man arbeitet oft auch am Wochenende.\ndenn (reason)\nEin Studium ist wichtig, denn man lernt viel."
   },
   {
-    "id": "g-18-linking-clauses-with-und-oder-aber-denn-952",
+    "id": "g-18-linking-clauses-with-und-oder-aber-denn-9724",
     "chapter": 18,
     "heading": "Linking Clauses With Und, Oder, Aber, Denn",
     "kind": "note",
     "table": null,
+    "items": [
+      {
+        "type": "note",
+        "text": "Clause 1 Clause 2"
+      },
+      {
+        "type": "example",
+        "text": "Ich Man Der Job Ich arbeite arbeite arbeitet macht gern viel zu Hause Spaß, online, und oder aber denn (ich) (man) ich das habe mietet arbeite ist nicht oft Urlaub."
+      },
+      {
+        "type": "example",
+        "text": "ein Büro."
+      },
+      {
+        "type": "example",
+        "text": "zu viel."
+      },
+      {
+        "type": "example",
+        "text": "praktisch."
+      },
+      {
+        "type": "example",
+        "text": "With und, oder, aber you can leave out the subject and the verb in the second clause if it is identical to"
+      },
+      {
+        "type": "note",
+        "text": "the subject and verb in the first clause."
+      },
+      {
+        "type": "note",
+        "text": "There is always a comma before aber and denn!"
+      }
+    ],
     "raw": "Clause 1 Clause 2\nIch\nMan\nDer Job\nIch arbeite\narbeite\narbeitet\nmacht\ngern\nviel\nzu Hause\nSpaß,\nonline,\nund\noder\naber\ndenn\n(ich)\n(man)\nich\ndas\nhabe\nmietet\narbeite\nist\nnicht oft Urlaub.\nein Büro.\nzu viel.\npraktisch.\nWith und, oder, aber you can leave out the subject and the verb in the second clause if it is identical to\nthe subject and verb in the first clause.\nThere is always a comma before aber and denn!"
   }
 ]

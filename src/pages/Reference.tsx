@@ -130,10 +130,37 @@ function GrammarCard({ block }: { block: GrammarBlock }) {
             </tbody>
           </table>
         </div>
+      ) : block.items.length ? (
+        <div className="space-y-3">
+          {block.items.some((i) => i.type === "note") && (
+            <div className="space-y-1.5">
+              {block.items
+                .filter((i) => i.type === "note")
+                .map((i, idx) => (
+                  <p key={idx} className="text-[15px] leading-relaxed text-text">
+                    {i.text}
+                  </p>
+                ))}
+            </div>
+          )}
+          {block.items.some((i) => i.type === "example") && (
+            <ul className="space-y-1.5 rounded-xl border border-border bg-surface-2/50 p-3">
+              {block.items
+                .filter((i) => i.type === "example")
+                .map((i, idx) => (
+                  <li
+                    key={idx}
+                    className="text-[15px] leading-relaxed text-text"
+                    lang="de"
+                  >
+                    {i.text}
+                  </li>
+                ))}
+            </ul>
+          )}
+        </div>
       ) : (
-        <pre className="whitespace-pre-wrap font-sans text-[15px] leading-relaxed text-text">
-          {block.raw}
-        </pre>
+        <p className="text-[15px] leading-relaxed text-muted">{block.raw}</p>
       )}
     </div>
   );

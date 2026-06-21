@@ -4,13 +4,22 @@ import { norm } from "../content/buildQuestions";
 import { Prompt, FeedbackBar } from "./MultipleChoice";
 import { UmlautBar } from "./UmlautBar";
 
-// lenient: ignore case/punctuation and a leading article when comparing
+// lenient: ignore case/punctuation, a leading article, and parenthetical hints.
+// Accept any one sense of a multi-sense gloss ("to think, to believe" → "believe" ok).
 function lenientEqual(input: string, answer: string): boolean {
-  const a = norm(input);
-  const b = norm(answer);
-  if (a === b) return true;
-  const strip = (s: string) => s.replace(/^(der|die|das|to)\s+/, "");
-  return strip(a) === strip(b);
+  const strip = (s: string) =>
+    norm(s.replace(/\(.*?\)/g, "").replace(/^here:\s*/, "")).replace(
+      /^(der|die|das|to|a|an|the)\s+/,
+      "",
+    );
+  const a = strip(input);
+  if (!a) return false;
+  // split the expected answer into its senses and accept any match
+  const senses = answer
+    .split(/[,;/]| or /i)
+    .map(strip)
+    .filter(Boolean);
+  return senses.includes(a) || strip(answer) === a;
 }
 
 export function TypeAnswer({ question, onAnswer, onNext, isLast }: GameProps) {
@@ -85,15 +94,10 @@ export function TypeAnswer({ question, onAnswer, onNext, isLast }: GameProps) {
 
       {answered ? (
         <div className="space-y-3">
-          {!result && (
-            <p className="text-sm">
-              <span className="text-muted">Answer: </span>
-              <span className="font-semibold text-correct">{question.answer}</span>
-            </p>
-          )}
           <FeedbackBar
             correct={result}
             example={question.example}
+            solution={!result ? `${question.prompt} → ${question.answer}` : undefined}
             onNext={onNext}
             isLast={isLast}
           />

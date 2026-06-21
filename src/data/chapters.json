@@ -3,126 +3,126 @@
     "id": 1,
     "title": "Hallo, ich bin …",
     "sequenceCount": 3,
-    "vocabCount": 107,
+    "vocabCount": 45,
     "phraseCount": 23
   },
   {
     "id": 2,
     "title": "Menschen in Deutschland",
     "sequenceCount": 3,
-    "vocabCount": 115,
+    "vocabCount": 67,
     "phraseCount": 9
   },
   {
     "id": 3,
     "title": "Freunde und Co.",
     "sequenceCount": 3,
-    "vocabCount": 118,
+    "vocabCount": 73,
     "phraseCount": 10
   },
   {
     "id": 4,
     "title": "In der Stadt unterwegs",
     "sequenceCount": 3,
-    "vocabCount": 202,
+    "vocabCount": 132,
     "phraseCount": 19
   },
   {
     "id": 5,
     "title": "Einkaufen und Essen",
     "sequenceCount": 3,
-    "vocabCount": 82,
+    "vocabCount": 60,
     "phraseCount": 11
   },
   {
     "id": 6,
     "title": "Mein Alltag",
     "sequenceCount": 3,
-    "vocabCount": 146,
+    "vocabCount": 97,
     "phraseCount": 15
   },
   {
     "id": 7,
     "title": "Kommst du mit?",
     "sequenceCount": 3,
-    "vocabCount": 111,
+    "vocabCount": 71,
     "phraseCount": 20
   },
   {
     "id": 8,
     "title": "Deine Wohnung ist schön",
     "sequenceCount": 3,
-    "vocabCount": 104,
+    "vocabCount": 63,
     "phraseCount": 20
   },
   {
     "id": 9,
     "title": "Das war sehr schön",
     "sequenceCount": 3,
-    "vocabCount": 81,
+    "vocabCount": 57,
     "phraseCount": 13
   },
   {
     "id": 10,
     "title": "Kontakte im Alltag",
     "sequenceCount": 3,
-    "vocabCount": 138,
+    "vocabCount": 86,
     "phraseCount": 23
   },
   {
     "id": 11,
     "title": "Entschuldigen Sie bitte",
     "sequenceCount": 3,
-    "vocabCount": 128,
+    "vocabCount": 93,
     "phraseCount": 21
   },
   {
     "id": 12,
     "title": "Ich bin hier neu",
     "sequenceCount": 3,
-    "vocabCount": 121,
+    "vocabCount": 81,
     "phraseCount": 18
   },
   {
     "id": 13,
     "title": "Familie und Freunde",
     "sequenceCount": 3,
-    "vocabCount": 113,
+    "vocabCount": 80,
     "phraseCount": 25
   },
   {
     "id": 14,
     "title": "Der Sommerjob",
     "sequenceCount": 3,
-    "vocabCount": 109,
+    "vocabCount": 76,
     "phraseCount": 13
   },
   {
     "id": 15,
     "title": "Glück gehabt",
     "sequenceCount": 3,
-    "vocabCount": 220,
+    "vocabCount": 155,
     "phraseCount": 22
   },
   {
     "id": 16,
     "title": "Shoppen gehen",
     "sequenceCount": 3,
-    "vocabCount": 142,
+    "vocabCount": 101,
     "phraseCount": 25
   },
   {
     "id": 17,
     "title": "Wir fahren weg",
     "sequenceCount": 3,
-    "vocabCount": 154,
+    "vocabCount": 120,
     "phraseCount": 32
   },
   {
     "id": 18,
     "title": "Arbeit und Mobilität",
     "sequenceCount": 3,
-    "vocabCount": 100,
+    "vocabCount": 64,
     "phraseCount": 30
   }
 ]
