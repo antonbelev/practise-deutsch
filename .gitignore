@@ -1,0 +1,8 @@
+node_modules
+dist
+*.local
+.DS_Store
+.vite
+tsconfig.tsbuildinfo
+static-docs/
+scripts/

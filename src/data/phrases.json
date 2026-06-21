@@ -1,0 +1,2794 @@
+[
+  {
+    "id": "p-1-0-wie-hei-t-du",
+    "chapter": 1,
+    "category": "Personal Information",
+    "de": "Wie heißt du?",
+    "en": null,
+    "register": "familiar"
+  },
+  {
+    "id": "p-1-1-wie-ist-dein-name",
+    "chapter": 1,
+    "category": "Personal Information",
+    "de": "Wie ist dein Name?",
+    "en": null,
+    "register": "familiar"
+  },
+  {
+    "id": "p-1-2-wo-wohnst-du",
+    "chapter": 1,
+    "category": "Personal Information",
+    "de": "Wo wohnst du?",
+    "en": null,
+    "register": "familiar"
+  },
+  {
+    "id": "p-1-3-woher-kommst-du",
+    "chapter": 1,
+    "category": "Personal Information",
+    "de": "Woher kommst du?",
+    "en": null,
+    "register": "familiar"
+  },
+  {
+    "id": "p-1-4-welche-sprachen-spri",
+    "chapter": 1,
+    "category": "Personal Information",
+    "de": "Welche Sprachen sprichst du?",
+    "en": null,
+    "register": "familiar"
+  },
+  {
+    "id": "p-1-5-ich-hei-e-max-ich",
+    "chapter": 1,
+    "category": "Personal Information",
+    "de": "Ich heiße Max. / Ich bin Max.",
+    "en": null,
+    "register": "familiar"
+  },
+  {
+    "id": "p-1-6-mein-name-ist-max-m",
+    "chapter": 1,
+    "category": "Personal Information",
+    "de": "Mein Name ist Max Müller.",
+    "en": null,
+    "register": "familiar"
+  },
+  {
+    "id": "p-1-7-ich-komme-aus",
+    "chapter": 1,
+    "category": "Personal Information",
+    "de": "Ich komme aus …",
+    "en": null,
+    "register": "familiar"
+  },
+  {
+    "id": "p-1-8-familiar-du-first",
+    "chapter": 1,
+    "category": "Personal Information",
+    "de": "Familiar: du + first name",
+    "en": null,
+    "register": "familiar"
+  },
+  {
+    "id": "p-1-9-wie-hei-t-du-ich-he",
+    "chapter": 1,
+    "category": "Personal Information",
+    "de": "Wie heißt du? Ich heiße Momoka.",
+    "en": null,
+    "register": "familiar"
+  },
+  {
+    "id": "p-1-10-formal-sie-last-n",
+    "chapter": 1,
+    "category": "Personal Information",
+    "de": "Formal: Sie + last name",
+    "en": null,
+    "register": "familiar"
+  },
+  {
+    "id": "p-1-11-wie-hei-en-sie-mein",
+    "chapter": 1,
+    "category": "Personal Information",
+    "de": "Wie heißen Sie? Mein Name ist Matteo Müller.",
+    "en": null,
+    "register": "familiar"
+  },
+  {
+    "id": "p-1-12-elderly-people-are-a",
+    "chapter": 1,
+    "category": "Personal Information",
+    "de": "Elderly people are addressed with Sie by younger people. Children are addressed with du.",
+    "en": null,
+    "register": "familiar"
+  },
+  {
+    "id": "p-1-13-wie-hei-en-sie",
+    "chapter": 1,
+    "category": "Personal Information",
+    "de": "Wie heißen Sie?",
+    "en": null,
+    "register": "formal"
+  },
+  {
+    "id": "p-1-14-wie-ist-ihr-name",
+    "chapter": 1,
+    "category": "Personal Information",
+    "de": "Wie ist Ihr Name?",
+    "en": null,
+    "register": "formal"
+  },
+  {
+    "id": "p-1-15-wie-ist-ihre-telefon",
+    "chapter": 1,
+    "category": "Personal Information",
+    "de": "Wie ist Ihre Telefonnummer /",
+    "en": null,
+    "register": "formal"
+  },
+  {
+    "id": "p-1-16-welche-sprachen-spre",
+    "chapter": 1,
+    "category": "Personal Information",
+    "de": "Welche Sprachen sprechen Sie?",
+    "en": null,
+    "register": "formal"
+  },
+  {
+    "id": "p-1-17-ich-hei-e-matteo-kra",
+    "chapter": 1,
+    "category": "Personal Information",
+    "de": "Ich heiße Matteo Kraft.",
+    "en": null,
+    "register": "formal"
+  },
+  {
+    "id": "p-1-18-mein-name-ist-matteo",
+    "chapter": 1,
+    "category": "Personal Information",
+    "de": "Mein Name ist Matteo Kraft.",
+    "en": null,
+    "register": "formal"
+  },
+  {
+    "id": "p-1-19-meine-e-mail-adresse",
+    "chapter": 1,
+    "category": "Personal Information",
+    "de": "Meine E-Mail-Adresse ist …",
+    "en": null,
+    "register": "formal"
+  },
+  {
+    "id": "p-1-20-sie-last-name",
+    "chapter": 1,
+    "category": "Personal Information",
+    "de": "➝ Sie + last name",
+    "en": null,
+    "register": "formal"
+  },
+  {
+    "id": "p-1-0-auf-wiedersehen-t",
+    "chapter": 1,
+    "category": "Saying Hello And Goodbye",
+    "de": "Auf Wiedersehen! / Tschüs!",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-1-1-in-der-nacht-guten-a",
+    "chapter": 1,
+    "category": "Saying Hello And Goodbye",
+    "de": "in der Nacht Guten Abend! / Hallo!",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-2-0-was-machen-sie-beru",
+    "chapter": 2,
+    "category": "Talking About Your Job",
+    "de": "Was machen Sie (beruflich)?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-2-1-was-machst-du-beruf",
+    "chapter": 2,
+    "category": "Talking About Your Job",
+    "de": "Was machst du (beruflich)? Ich bin Architekt (von Beruf).",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-2-2-was-sind-sie-von-ber",
+    "chapter": 2,
+    "category": "Talking About Your Job",
+    "de": "Was sind Sie von Beruf?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-2-3-was-bist-du-von-beru",
+    "chapter": 2,
+    "category": "Talking About Your Job",
+    "de": "Was bist du von Beruf?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-2-4-wo-arbeiten-sie",
+    "chapter": 2,
+    "category": "Talking About Your Job",
+    "de": "Wo arbeiten Sie?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-2-5-wo-arbeitest-du-ich",
+    "chapter": 2,
+    "category": "Talking About Your Job",
+    "de": "Wo arbeitest du? Ich arbeite bei Siemens/BMW/…",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-2-0-entschuldigung-das",
+    "chapter": 2,
+    "category": "Enquiring Politely",
+    "de": "Entschuldigung, das habe ich nicht verstanden.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-2-1-k-nnen-sie-das-buchs",
+    "chapter": 2,
+    "category": "Enquiring Politely",
+    "de": "Können Sie das buchstabieren?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-2-2-k-nnen-sie-das-wiede",
+    "chapter": 2,
+    "category": "Enquiring Politely",
+    "de": "Können Sie das wiederholen?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-3-0-in-der-nacht-circa-0",
+    "chapter": 3,
+    "category": "Times Of The Day",
+    "de": "in der Nacht circa 0–6 Uhr",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-3-0-was-machst-du-gern",
+    "chapter": 3,
+    "category": "Talking About Hobbies",
+    "de": "Was machst du gern? / Was machen Sie gern?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-3-1-ich-spiele-gern-fu-b",
+    "chapter": 3,
+    "category": "Talking About Hobbies",
+    "de": "Ich spiele gern Fußball.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-3-2-ich-h-re-gern-musik",
+    "chapter": 3,
+    "category": "Talking About Hobbies",
+    "de": "Ich höre gern Musik.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-3-0-in-der-nacht",
+    "chapter": 3,
+    "category": "Indicating Time",
+    "de": "in der Nacht",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-3-1-hast-du-am-montag-ze",
+    "chapter": 3,
+    "category": "Indicating Time",
+    "de": "Hast du am Montag Zeit, spielen wir Tennis?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-3-2-ja-ich-habe-zeit",
+    "chapter": 3,
+    "category": "Indicating Time",
+    "de": "Ja, ich habe Zeit.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-3-3-ja-das-geht",
+    "chapter": 3,
+    "category": "Indicating Time",
+    "de": "Ja, das geht.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-3-4-nein-ich-habe-leid",
+    "chapter": 3,
+    "category": "Indicating Time",
+    "de": "Nein, ich habe (leider) keine Zeit.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-3-5-nein-das-geht-leid",
+    "chapter": 3,
+    "category": "Indicating Time",
+    "de": "Nein, das geht (leider) nicht.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-4-0-was-m-chten-sie",
+    "chapter": 4,
+    "category": "At The Restaurant",
+    "de": "Was möchten Sie …?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-4-1-ich-m-chte-bitte",
+    "chapter": 4,
+    "category": "At The Restaurant",
+    "de": "Ich möchte bitte …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-4-2-f-r-mich-bitte",
+    "chapter": 4,
+    "category": "At The Restaurant",
+    "de": "Für mich bitte …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-4-3-haben-sie-noch-einen",
+    "chapter": 4,
+    "category": "At The Restaurant",
+    "de": "Haben Sie noch einen Wunsch? Nein, danke.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-4-4-ich-m-chte-bitte-bez",
+    "chapter": 4,
+    "category": "At The Restaurant",
+    "de": "Ich möchte bitte bezahlen.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-4-0-hast-du-am-samstag-z",
+    "chapter": 4,
+    "category": "Arranging To Meet",
+    "de": "Hast du am Samstag Zeit?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-4-1-kannst-du-am-samstag",
+    "chapter": 4,
+    "category": "Arranging To Meet",
+    "de": "Kannst du am Samstag?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-4-2-ja-samstag-ist-gut",
+    "chapter": 4,
+    "category": "Arranging To Meet",
+    "de": "Ja, Samstag ist gut.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-4-3-nein-am-samstag-hab",
+    "chapter": 4,
+    "category": "Arranging To Meet",
+    "de": "Nein, am Samstag habe ich",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-4-4-nein-am-samstag-kan",
+    "chapter": 4,
+    "category": "Arranging To Meet",
+    "de": "Nein, am Samstag kann ich",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-4-5-leider-nicht",
+    "chapter": 4,
+    "category": "Arranging To Meet",
+    "de": "(leider) nicht /",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-4-6-geht-es-leider-nic",
+    "chapter": 4,
+    "category": "Arranging To Meet",
+    "de": "geht es (leider) nicht.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-4-7-kino-ins-theater",
+    "chapter": 4,
+    "category": "Arranging To Meet",
+    "de": "Kino / ins Theater / in die",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-4-8-hast-du-lust",
+    "chapter": 4,
+    "category": "Arranging To Meet",
+    "de": "Hast du Lust?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-4-9-wann-hast-du-zeit-i",
+    "chapter": 4,
+    "category": "Arranging To Meet",
+    "de": "Wann hast du Zeit? Ich habe am Montag Zeit.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-4-0-viertel-vor-elf-zwei",
+    "chapter": 4,
+    "category": "Phrases",
+    "de": "Viertel vor elf zweiundzwanzig Uhr fünfundvierzig",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-4-0-wie-lange-hat-ist",
+    "chapter": 4,
+    "category": "Indicating Time",
+    "de": "Wie lange hat/ist … geöffnet?“ Von … bis …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-4-1-wann-ffnet-wan",
+    "chapter": 4,
+    "category": "Indicating Time",
+    "de": "Wann öffnet …? / Wann schließt …? Um …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-4-2-note-in-der-nacht",
+    "chapter": 4,
+    "category": "Indicating Time",
+    "de": "Note: in der Nacht",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-5-0-ein-kilo-gramm-pfe",
+    "chapter": 5,
+    "category": "Indicating Quantities",
+    "de": "ein Kilo(gramm) Äpfel",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-5-0-in-der-metzgerei-b",
+    "chapter": 5,
+    "category": "Shops",
+    "de": "in der Metzgerei / beim Metzger",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-5-1-in-der-b-ckerei-be",
+    "chapter": 5,
+    "category": "Shops",
+    "de": "in der Bäckerei / beim Bäcker",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-5-0-ich-h-tte-gern",
+    "chapter": 5,
+    "category": "Shopping",
+    "de": "Ich hätte gern …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-5-1-das-ist-alles",
+    "chapter": 5,
+    "category": "Shopping",
+    "de": "Das ist alles.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-5-0-was-kostet-ein-kilo",
+    "chapter": 5,
+    "category": "Asking The Price",
+    "de": "Was kostet ein Kilo Käse?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-5-1-was-kosten-100-gramm",
+    "chapter": 5,
+    "category": "Asking The Price",
+    "de": "Was kosten 100 Gramm Käse?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-5-2-wie-viel-kostet-ein",
+    "chapter": 5,
+    "category": "Asking The Price",
+    "de": "Wie viel kostet ein Kilo Käse?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-5-3-wie-viel-kosten-100",
+    "chapter": 5,
+    "category": "Asking The Price",
+    "de": "Wie viel kosten 100 Gramm Käse?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-5-0-0-50-euro-f-nfzig",
+    "chapter": 5,
+    "category": "Indicating Prices",
+    "de": "0,50 Euro -> Fünfzig Cent.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-5-1-1-05-euro-ein-eur",
+    "chapter": 5,
+    "category": "Indicating Prices",
+    "de": "1,05 Euro -> Ein Euro fünf.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-6-0-wann-hast-du-geburts",
+    "chapter": 6,
+    "category": "Date And Time",
+    "de": "Wann hast du Geburtstag? Im April.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-6-1-wann-machst-du-urlau",
+    "chapter": 6,
+    "category": "Date And Time",
+    "de": "Wann machst du Urlaub? Ich mache im Sommer Urlaub.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-6-2-wann-f-hrst-du-ich",
+    "chapter": 6,
+    "category": "Date And Time",
+    "de": "Wann fährst du? Ich fahre am Montag.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-6-3-wann-ist-das-meeting",
+    "chapter": 6,
+    "category": "Date And Time",
+    "de": "Wann ist das Meeting? Am Donnerstag um halb elf / um 10 Uhr 30.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-6-0-sabine-ich-bin-lehre",
+    "chapter": 6,
+    "category": "Speaking About Your Job/Studies",
+    "de": "Sabine Ich bin Lehrerin.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-6-1-lea-ich-bin-sch-leri",
+    "chapter": 6,
+    "category": "Speaking About Your Job/Studies",
+    "de": "Lea Ich bin Schülerin.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-6-2-max-ich-bin-student",
+    "chapter": 6,
+    "category": "Speaking About Your Job/Studies",
+    "de": "Max Ich bin Student. Ich studiere Architektur.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-6-3-daniel-ich-habe-imme",
+    "chapter": 6,
+    "category": "Speaking About Your Job/Studies",
+    "de": "Daniel Ich habe immer viele Termine und viel Stress.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-6-0-kannst-du-am-im-um",
+    "chapter": 6,
+    "category": "Arranging Meetings",
+    "de": "Kannst du am/im/um…? – Ja, wann? / Nein, leider nicht.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-6-1-ja-das-geht-ne",
+    "chapter": 6,
+    "category": "Arranging Meetings",
+    "de": "– Ja, das geht. / Nein, das geht leider nicht.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-6-2-ja-gern-ich-ka",
+    "chapter": 6,
+    "category": "Arranging Meetings",
+    "de": "– Ja, gern. / Ich kann leider nicht.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-6-3-das-passt-gut-nei",
+    "chapter": 6,
+    "category": "Arranging Meetings",
+    "de": "– Das passt gut. Nein, das geht leider nicht.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-6-4-was-machst-du-am",
+    "chapter": 6,
+    "category": "Arranging Meetings",
+    "de": "Was machst du am …? – Am … habe/gehe/fahre/bin ich …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-6-5-wann-machst-du-urlau",
+    "chapter": 6,
+    "category": "Arranging Meetings",
+    "de": "Wann machst du Urlaub? – Vom 13. bis 25. Juni.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-6-6-wann-hast-du-geburts",
+    "chapter": 6,
+    "category": "Arranging Meetings",
+    "de": "Wann hast du Geburtstag? – Im August/....",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-7-0-ich-lade-dich-sie-ei",
+    "chapter": 7,
+    "category": "Writing Invitations",
+    "de": "Ich lade dich/Sie ein. / Wir laden dich/Sie ein.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-7-1-ich-m-chte-dich-sie",
+    "chapter": 7,
+    "category": "Writing Invitations",
+    "de": "Ich möchte dich/Sie einladen. Wir möchten dich/Sie einladen.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-7-2-die-party-f-ngt-um",
+    "chapter": 7,
+    "category": "Writing Invitations",
+    "de": "Die Party fängt um … an.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-7-3-kannst-du-mitbring",
+    "chapter": 7,
+    "category": "Writing Invitations",
+    "de": "Kannst du … mitbringen?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-7-4-ich-freue-mich-auf-d",
+    "chapter": 7,
+    "category": "Writing Invitations",
+    "de": "Ich freue mich auf dich/Sie. / Wir freuen uns auf dich/Sie.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-7-0-magst-liebst-du-j",
+    "chapter": 7,
+    "category": "Expressing Preferences",
+    "de": "Magst/Liebst du …? Ja, sehr. / Ich liebe/mag …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-7-1-nein-ich-mag-nich",
+    "chapter": 7,
+    "category": "Expressing Preferences",
+    "de": "Nein, ich mag … nicht",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-7-2-wie-findest-du",
+    "chapter": 7,
+    "category": "Expressing Preferences",
+    "de": "Wie findest du …? … finde ich toll/super/langweilig …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-7-3-gehst-du-gern-ins-th",
+    "chapter": 7,
+    "category": "Expressing Preferences",
+    "de": "Gehst du gern ins Theater / ins Kino? Ja, sehr gern. Ja, ich gehe gern …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-7-4-nein-nicht-so-gern",
+    "chapter": 7,
+    "category": "Expressing Preferences",
+    "de": "Nein, nicht so gern.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-7-0-danke-f-r-die-einlad",
+    "chapter": 7,
+    "category": "Responding To Invitations",
+    "de": "Danke für die Einladung.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-7-1-ich-nehme-die-einlad",
+    "chapter": 7,
+    "category": "Responding To Invitations",
+    "de": "Ich nehme die Einladung gern an.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-7-2-um-wie-viel-uhr",
+    "chapter": 7,
+    "category": "Responding To Invitations",
+    "de": "Um wie viel Uhr?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-7-3-es-tut-mir-leid-ich",
+    "chapter": 7,
+    "category": "Responding To Invitations",
+    "de": "Es tut mir leid, ich kann nicht",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-7-4-ich-kann-leider-nich",
+    "chapter": 7,
+    "category": "Responding To Invitations",
+    "de": "Ich kann leider nicht kommen.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-7-5-es-geht-leider-nicht",
+    "chapter": 7,
+    "category": "Responding To Invitations",
+    "de": "Es geht leider nicht.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-7-6-ich-bin-muss-habe",
+    "chapter": 7,
+    "category": "Responding To Invitations",
+    "de": "Ich bin/muss/habe …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-7-0-zahlen-bitte-ich",
+    "chapter": 7,
+    "category": "At The Restaurant / In The Pub … Paying",
+    "de": "Zahlen, bitte. / Ich möchte zahlen, bitte. Zahlen Sie getrennt oder zusammen?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-7-1-getrennt-zusammen",
+    "chapter": 7,
+    "category": "At The Restaurant / In The Pub … Paying",
+    "de": "Getrennt. / Zusammen. Ich bringe die Rechnung.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-7-2-machen-sie-10-euro",
+    "chapter": 7,
+    "category": "At The Restaurant / In The Pub … Paying",
+    "de": "Machen Sie 10 Euro. Danke. Zwanzig und 10 Euro für Sie zurück.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-8-0-wie-gef-llt-dir-ihne",
+    "chapter": 8,
+    "category": "Expressing Likes And Dislikes",
+    "de": "Wie gefällt dir/Ihnen",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-8-1-der-das-die",
+    "chapter": 8,
+    "category": "Expressing Likes And Dislikes",
+    "de": "der/das/die …? /",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-8-2-wie-gefallen-dir-ihn",
+    "chapter": 8,
+    "category": "Expressing Likes And Dislikes",
+    "de": "Wie gefallen dir/Ihnen die …? /",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-8-3-er-es-sie-gef-llt-mi",
+    "chapter": 8,
+    "category": "Expressing Likes And Dislikes",
+    "de": "Er/Es/Sie gefällt mir. / Sie gefallen mir.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-8-4-er-es-sie-gef-llt-mi",
+    "chapter": 8,
+    "category": "Expressing Likes And Dislikes",
+    "de": "Er/Es/Sie gefällt mir / Sie gefallen mir (sehr) gut / nicht (so gut).",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-8-5-wie-findest-du-den-d",
+    "chapter": 8,
+    "category": "Expressing Likes And Dislikes",
+    "de": "Wie findest du den/das/",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-8-6-die-die",
+    "chapter": 8,
+    "category": "Expressing Likes And Dislikes",
+    "de": "die/die …?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-8-7-ich-finde-er-es",
+    "chapter": 8,
+    "category": "Expressing Likes And Dislikes",
+    "de": "Ich finde … / Er/es/sie ist …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-8-8-ich-finde-ihn-es-sie",
+    "chapter": 8,
+    "category": "Expressing Likes And Dislikes",
+    "de": "Ich finde ihn/es/sie/sie (sehr) gut / nicht (so) gut.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-8-9-ich-finde-ihn-es-sie",
+    "chapter": 8,
+    "category": "Expressing Likes And Dislikes",
+    "de": "Ich finde ihn/es/sie/sie schön/hell/groß/praktisch/bequem/super/",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-8-10-klein-dunkel-nic",
+    "chapter": 8,
+    "category": "Expressing Likes And Dislikes",
+    "de": "klein/dunkel/… / nicht (so) schön …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-8-11-er-es-sie-ist-sch-n",
+    "chapter": 8,
+    "category": "Expressing Likes And Dislikes",
+    "de": "Er/es/sie ist schön/hell … /",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-8-12-sie-sind-gro-prakti",
+    "chapter": 8,
+    "category": "Expressing Likes And Dislikes",
+    "de": "Sie sind groß/praktisch …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-8-0-im-ersten-zweiten",
+    "chapter": 8,
+    "category": "Describing Where You Live",
+    "de": "- im ersten/zweiten/dritten/vierten/fünften … Stock",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-8-0-wo-finde-ich-wo",
+    "chapter": 8,
+    "category": "At The Shops",
+    "de": "Wo finde ich … / Wo finden wir …?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-8-1-das-ist-nicht-sehr",
+    "chapter": 8,
+    "category": "At The Shops",
+    "de": "Das ist (nicht/sehr/zu) teuer/günstig/groß/hell …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-8-2-die-farbe-gef-llt-mi",
+    "chapter": 8,
+    "category": "At The Shops",
+    "de": "Die Farbe gefällt mir (nicht).",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-8-3-die-gr-e-ist-gut",
+    "chapter": 8,
+    "category": "At The Shops",
+    "de": "Die Größe ist gut.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-8-4-ich-finde-nicht-s",
+    "chapter": 8,
+    "category": "At The Shops",
+    "de": "Ich finde … (nicht/sehr/zu) klein/groß/teuer …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-8-5-sehr-sch-n-super",
+    "chapter": 8,
+    "category": "At The Shops",
+    "de": "Sehr schön. / Super! / …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-9-0-sehr-sch-n-total-sc",
+    "chapter": 9,
+    "category": "Evaluating Something",
+    "de": "sehr schön (total schön) schön nicht schön gar nicht schön",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-9-1-sehr-gro-total-gro",
+    "chapter": 9,
+    "category": "Evaluating Something",
+    "de": "sehr groß (total groß) groß nicht groß gar nicht groß",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-9-2-ist-war-sch-n-gut",
+    "chapter": 9,
+    "category": "Evaluating Something",
+    "de": "… ist/war schön/gut/toll/klasse/prima! … ist/war (gar) nicht gut / nicht schön / schrecklich.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-9-3-das-museum-ist-wa",
+    "chapter": 9,
+    "category": "Evaluating Something",
+    "de": "Das Museum/ … ist/war interessant. Das Museum/ … ist/war langweilig.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-9-4-das-wetter-war-sehr",
+    "chapter": 9,
+    "category": "Evaluating Something",
+    "de": "Das Wetter war (sehr) gut/toll/klasse. Das Wetter war nicht gut/schlecht/schrecklich.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-9-5-ich-hatte-viel-spa",
+    "chapter": 9,
+    "category": "Evaluating Something",
+    "de": "Ich hatte (viel) Spaß! Ich hatte keinen Spaß!",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-9-0-ich-komme",
+    "chapter": 9,
+    "category": "Writing An Email",
+    "de": "… ich komme …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-9-1-vielen-dank-f-r",
+    "chapter": 9,
+    "category": "Writing An Email",
+    "de": "Vielen Dank für … / Danke für …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-9-2-war-sehr-sch-n",
+    "chapter": 9,
+    "category": "Writing An Email",
+    "de": "… war sehr schön.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-9-3-ich-hatte-sehr-wirk",
+    "chapter": 9,
+    "category": "Writing An Email",
+    "de": "Ich hatte (sehr/wirklich) viel Spaß.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-9-4-war-toll-klasse",
+    "chapter": 9,
+    "category": "Writing An Email",
+    "de": "… war toll/klasse/ (sehr) schön.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-9-5-greeting-viele-lie",
+    "chapter": 9,
+    "category": "Writing An Email",
+    "de": "Greeting: Viele (liebe) Grüße / Liebe Grüße",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-9-6-ich-sende-dir-viele",
+    "chapter": 9,
+    "category": "Writing An Email",
+    "de": "Ich sende dir viele liebe Grüße.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-10-0-die-sekunde",
+    "chapter": 10,
+    "category": "Date And Time",
+    "de": "die Sekunde",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-10-1-die-minute-60-sek",
+    "chapter": 10,
+    "category": "Date And Time",
+    "de": "die Minute (= 60 Sekunden)",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-10-2-die-stunde-60-min",
+    "chapter": 10,
+    "category": "Date And Time",
+    "de": "die Stunde (= 60 Minuten)",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-10-3-der-tag-24-stunde",
+    "chapter": 10,
+    "category": "Date And Time",
+    "de": "der Tag (= 24 Stunden)",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-10-4-die-woche",
+    "chapter": 10,
+    "category": "Date And Time",
+    "de": "die Woche",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-10-5-das-jahr",
+    "chapter": 10,
+    "category": "Date And Time",
+    "de": "das Jahr",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-10-6-30-minuten-t-glich",
+    "chapter": 10,
+    "category": "Date And Time",
+    "de": "30 Minuten täglich / pro Tag",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-10-7-1-bis-2-stunden-t-gl",
+    "chapter": 10,
+    "category": "Date And Time",
+    "de": "1 bis 2 Stunden täglich / pro Tag",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-10-0-wie-oft-nutzt-du-n",
+    "chapter": 10,
+    "category": "Talking About Internet Use",
+    "de": "Wie oft nutzt du / nutzen Sie das Internet? Ich nutze das Internet täglich / 4 Tage pro Woche / nie.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-10-1-wie-lange-bist-du",
+    "chapter": 10,
+    "category": "Talking About Internet Use",
+    "de": "Wie lange bist du / sind Sie im Internet?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-10-2-ich-bin-ca-2-stunde",
+    "chapter": 10,
+    "category": "Talking About Internet Use",
+    "de": "Ich bin ca. 2 Stunden / ca. 30 Minuten pro Tag",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-10-3-ich-bin-ca-4-stunde",
+    "chapter": 10,
+    "category": "Talking About Internet Use",
+    "de": "Ich bin ca. 4 Stunden pro Woche im Internet.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-10-4-wie-nutzt-du-nutze",
+    "chapter": 10,
+    "category": "Talking About Internet Use",
+    "de": "Wie nutzt du / nutzen Sie das Internet?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-10-5-ich-h-re-musik",
+    "chapter": 10,
+    "category": "Talking About Internet Use",
+    "de": "Ich höre Musik.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-10-0-kann-ich-ihnen-dir-e",
+    "chapter": 10,
+    "category": "Offering, Accepting And Declining Help",
+    "de": "Kann ich Ihnen/dir/euch helfen?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-10-1-brauchen-sie-brauc",
+    "chapter": 10,
+    "category": "Offering, Accepting And Declining Help",
+    "de": "Brauchen Sie / brauchst du /",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-10-2-ja-das-ist-sehr-net",
+    "chapter": 10,
+    "category": "Offering, Accepting And Declining Help",
+    "de": "Ja, das ist sehr nett.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-10-3-nein-danke-das-s",
+    "chapter": 10,
+    "category": "Offering, Accepting And Declining Help",
+    "de": "Nein, (danke,) das schaffe ich.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-10-0-bist-du-thomas-si",
+    "chapter": 10,
+    "category": "Addressing People And Responding",
+    "de": "Bist du Thomas? / Sind Sie Herr Schmitt? Ja, (das bin ich.) / Ja, warum?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-10-1-sind-sie-nicht-frau",
+    "chapter": 10,
+    "category": "Addressing People And Responding",
+    "de": "Sind Sie nicht Frau Schmitt? Nein, ich bin Frau Wagner/ Nein, ich heiße Wagner.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-10-2-hallo-ich-hei-e-tho",
+    "chapter": 10,
+    "category": "Addressing People And Responding",
+    "de": "Hallo, ich heiße Thomas. Ich heiße Marlis. Hallo.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-10-3-guten-tag-ich-hei-e",
+    "chapter": 10,
+    "category": "Addressing People And Responding",
+    "de": "Guten Tag, ich heiße Wagner. Schmitt. Guten Tag.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-10-0-herzlichen-gl-ckwuns",
+    "chapter": 10,
+    "category": "Expressing Congratulations And Responding",
+    "de": "Herzlichen Glückwunsch!",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-11-0-entschuldigung-habe",
+    "chapter": 11,
+    "category": "Asking For And Providing Information",
+    "de": "Entschuldigung. Haben Sie …?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-11-1-haben-sie-gibt",
+    "chapter": 11,
+    "category": "Asking For And Providing Information",
+    "de": "Haben Sie …? / Gibt es …?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-11-2-aber-nat-rlich-ja",
+    "chapter": 11,
+    "category": "Asking For And Providing Information",
+    "de": "Aber natürlich. / Ja, natürlich. / Gerne. /",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-11-3-geben-sie-mir-bitte",
+    "chapter": 11,
+    "category": "Asking For And Providing Information",
+    "de": "Geben Sie mir bitte …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-11-4-k-nnen-sie-mir-bitte",
+    "chapter": 11,
+    "category": "Asking For And Providing Information",
+    "de": "Können Sie mir bitte … geben/zeigen?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-11-5-aber-nat-rlich-ja",
+    "chapter": 11,
+    "category": "Asking For And Providing Information",
+    "de": "Aber natürlich. / Ja, natürlich. / Gerne. /",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-11-6-wo-bekomme-ich-einen",
+    "chapter": 11,
+    "category": "Asking For And Providing Information",
+    "de": "Wo bekomme ich einen Stadtplan/Briefmarken/…? Im / In der …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-11-7-eine-frage-wann-w",
+    "chapter": 11,
+    "category": "Asking For And Providing Information",
+    "de": "Eine Frage: Wann / Wie lange / Wie / Wo …? Sie können …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-11-0-der-zug-hat-f-nf-min",
+    "chapter": 11,
+    "category": "Date And Time",
+    "de": "Der Zug hat fünf Minuten Verspätung. Ich komme eine halbe Stunde später.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-11-1-ich-bin-zehn-minuten",
+    "chapter": 11,
+    "category": "Date And Time",
+    "de": "Ich bin zehn Minuten zu spät. Ich komme in 20 Minuten.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-11-0-entschuldige-bitte",
+    "chapter": 11,
+    "category": "Apologising For Lateness",
+    "de": "Entschuldige bitte. / Entschuldigen Sie bitte, der Zug hatte Verspätung / ich hatte eine Panne /",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-11-1-ich-bitte-um-entschu",
+    "chapter": 11,
+    "category": "Apologising For Lateness",
+    "de": "Ich bitte um Entschuldigung. / Es tut mir leid, ich bin zu spät.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-11-2-entschuldigen-sie-di",
+    "chapter": 11,
+    "category": "Apologising For Lateness",
+    "de": "Entschuldigen Sie die Verspätung.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-11-3-kommen-sie-das-n-chs",
+    "chapter": 11,
+    "category": "Apologising For Lateness",
+    "de": "Kommen Sie das nächste Mal bitte pünktlich.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-11-0-entschuldigung-k-nn",
+    "chapter": 11,
+    "category": "Expressing Imperatives And Polite Requests",
+    "de": "Entschuldigung, können Sie mir helfen?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-11-1-k-nnen-sie-mir-das",
+    "chapter": 11,
+    "category": "Expressing Imperatives And Polite Requests",
+    "de": "Können Sie mir das (bitte) erklären?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-11-2-entschuldigung-kann",
+    "chapter": 11,
+    "category": "Expressing Imperatives And Polite Requests",
+    "de": "Entschuldigung, kannst du mir helfen?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-11-3-wie-geht-das-denn",
+    "chapter": 11,
+    "category": "Expressing Imperatives And Polite Requests",
+    "de": "Wie geht das (denn)?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-11-4-kannst-du-mir-das-b",
+    "chapter": 11,
+    "category": "Expressing Imperatives And Polite Requests",
+    "de": "Kannst du mir das (bitte) erklären?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-11-5-ja-nat-rlich-ja",
+    "chapter": 11,
+    "category": "Expressing Imperatives And Polite Requests",
+    "de": "Ja, natürlich. / Ja, gern. / Ich helfe Ihnen gern. Ja, natürlich. / Ja, gern. / Ich helfe dir gern.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-11-6-nein-tut-mir-leid",
+    "chapter": 11,
+    "category": "Expressing Imperatives And Polite Requests",
+    "de": "Nein, tut mir leid. / Oh, das tut mir leid. Das kann/weiß ich leider auch nicht.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-12-0-was-kann-ich-f-r-sie",
+    "chapter": 12,
+    "category": "Introducing Yourself",
+    "de": "Was kann ich für Sie tun? Ich bin … / Mein Name ist …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-12-1-sie-sind-sind-si",
+    "chapter": 12,
+    "category": "Introducing Yourself",
+    "de": "Sie sind … / Sind Sie nicht …? Ja, … / Nein, …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-12-2-ich-bin-mein-nam",
+    "chapter": 12,
+    "category": "Introducing Yourself",
+    "de": "Ich bin … / Mein Name ist … Freut mich. / Schön, dass Sie da sind. Herzlich willkommen.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-12-0-haben-sie-das-versta",
+    "chapter": 12,
+    "category": "Höfliches Nachfragen",
+    "de": "Haben Sie das verstanden? / Ist das klar?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-12-1-entschuldigung-was",
+    "chapter": 12,
+    "category": "Höfliches Nachfragen",
+    "de": "Entschuldigung, was heißt das / was bedeutet …?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-12-2-habe-ich-das-richtig",
+    "chapter": 12,
+    "category": "Höfliches Nachfragen",
+    "de": "Habe ich das richtig verstanden?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-12-0-haben-sie-das-versta",
+    "chapter": 12,
+    "category": "Polite Enquiries",
+    "de": "Haben Sie das verstanden? / Ist das klar?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-12-1-entschuldigung-was",
+    "chapter": 12,
+    "category": "Polite Enquiries",
+    "de": "Entschuldigung, was heißt das / was bedeutet …?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-12-2-habe-ich-das-richtig",
+    "chapter": 12,
+    "category": "Polite Enquiries",
+    "de": "Habe ich das richtig verstanden?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-12-0-haben-sie-das-versta",
+    "chapter": 12,
+    "category": "Höfliches Nachfragen",
+    "de": "Haben Sie das verstanden? / Ist das klar?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-12-1-entschuldigung-was",
+    "chapter": 12,
+    "category": "Höfliches Nachfragen",
+    "de": "Entschuldigung, was heißt das / was bedeutet …?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-12-2-habe-ich-das-richtig",
+    "chapter": 12,
+    "category": "Höfliches Nachfragen",
+    "de": "Habe ich das richtig verstanden?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-12-0-sehr-geehrter-herr",
+    "chapter": 12,
+    "category": "Writing A Formal Email",
+    "de": "Sehr geehrter Herr …, / Sehr geehrte Frau …, / Sehr geehrte Damen und Herren,",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-12-1-danke-f-r-ihre-nachr",
+    "chapter": 12,
+    "category": "Writing A Formal Email",
+    "de": "Danke für Ihre Nachricht/E-Mail.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-12-2-leider-kann-ich-am",
+    "chapter": 12,
+    "category": "Writing A Formal Email",
+    "de": "Leider kann ich am … nicht. Ich muss den Termin am … leider absagen.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-12-3-geht-es-am-um",
+    "chapter": 12,
+    "category": "Writing A Formal Email",
+    "de": "Geht es am … um …? / Können Sie am … um …?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-12-4-geht-das-bei-ihnen",
+    "chapter": 12,
+    "category": "Writing A Formal Email",
+    "de": "Geht das bei Ihnen? Ich bitte um Rückmeldung. / Bitte geben Sie Bescheid.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-12-5-mit-freundlichen-gr",
+    "chapter": 12,
+    "category": "Writing A Formal Email",
+    "de": "Mit freundlichen Grüßen",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-0-wie-hei-en-sie-hei",
+    "chapter": 13,
+    "category": "Personal Details",
+    "de": "Wie heißen Sie / heißt du? Ich heiße … / Ich bin …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-1-wo-wohnen-sie-wohn",
+    "chapter": 13,
+    "category": "Personal Details",
+    "de": "Wo wohnen Sie / wohnst du?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-2-wo-leben-sie-lebst",
+    "chapter": 13,
+    "category": "Personal Details",
+    "de": "Wo leben Sie / lebst du?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-3-ich-lebe-in-in-d",
+    "chapter": 13,
+    "category": "Personal Details",
+    "de": "Ich lebe in … / in der Stadt.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-4-wo-ist-das-das-ist",
+    "chapter": 13,
+    "category": "Personal Details",
+    "de": "Wo ist das? Das ist in …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-5-wie-alt-bist-du-si",
+    "chapter": 13,
+    "category": "Personal Details",
+    "de": "Wie alt bist du / sind Sie?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-6-wie-alt-ist",
+    "chapter": 13,
+    "category": "Personal Details",
+    "de": "Wie alt ist …?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-7-ich-bin-25-jahre-alt",
+    "chapter": 13,
+    "category": "Personal Details",
+    "de": "Ich bin 25 Jahre alt. / Ich bin 25. / 25.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-8-er-sie-ist-25-jahre",
+    "chapter": 13,
+    "category": "Personal Details",
+    "de": "Er/Sie ist 25 Jahre alt. / Er/Sie ist 25. / 25.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-9-was-machen-sie-mac",
+    "chapter": 13,
+    "category": "Personal Details",
+    "de": "Was machen Sie / machst du beruflich? Ich bin … (von Beruf). / Ich arbeite als …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-0-ich-mache-das-morgen",
+    "chapter": 13,
+    "category": "Promises",
+    "de": "Ich mache das morgen/später/gleich. Wirklich?/Versprochen?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-0-gibst-du-mir-bitte",
+    "chapter": 13,
+    "category": "Demands/Requests",
+    "de": "Gibst du mir bitte …? / Geben Sie mir bitte …?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-1-kannst-du-bitte",
+    "chapter": 13,
+    "category": "Demands/Requests",
+    "de": "Kannst du bitte …? / Können Sie bitte …?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-2-ja-nat-rlich-na",
+    "chapter": 13,
+    "category": "Demands/Requests",
+    "de": "Ja, natürlich. / Na klar. / Gerne. / Ja, das mache ich sofort.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-0-wann-war-das-das-wa",
+    "chapter": 13,
+    "category": "Time And Date / Ages",
+    "de": "Wann war das? Das war vor 60 Jahren.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-1-wie-alt-warst-du-da",
+    "chapter": 13,
+    "category": "Time And Date / Ages",
+    "de": "Wie alt warst du da? Da war ich 19.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-2-das-ist-2008-zweita",
+    "chapter": 13,
+    "category": "Time And Date / Ages",
+    "de": "Das ist 2008 (zweitausendacht). Das war dein erster Schultag.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-3-das-war-weihnachten",
+    "chapter": 13,
+    "category": "Time And Date / Ages",
+    "de": "Das war Weihnachten 1995 (neunzehnhundertfünfundneunzig). Da waren wir in Argentinien.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-0-das-ist-das-sind",
+    "chapter": 13,
+    "category": "Describing P Hotos",
+    "de": "Das ist / Das sind …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-1-auf-dem-foto-ist-sin",
+    "chapter": 13,
+    "category": "Describing P Hotos",
+    "de": "Auf dem Foto ist/sind …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-2-das-war-die-hochzeit",
+    "chapter": 13,
+    "category": "Describing P Hotos",
+    "de": "Das war die Hochzeit von …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-3-das-ist-1993-neunze",
+    "chapter": 13,
+    "category": "Describing P Hotos",
+    "de": "Das ist 1993 (neunzehnhundertdreiundneunzig).",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-4-hier-sind-wir-bei-me",
+    "chapter": 13,
+    "category": "Describing P Hotos",
+    "de": "Hier sind wir bei meinen Eltern …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-5-das-ist-bei-oma-und",
+    "chapter": 13,
+    "category": "Describing P Hotos",
+    "de": "Das ist bei Oma und Opa …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-13-6-hier-sind-wir-in-ita",
+    "chapter": 13,
+    "category": "Describing P Hotos",
+    "de": "Hier sind wir in Italien.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-14-0-name-ich-hei-e-m",
+    "chapter": 14,
+    "category": "Introducing Yourself",
+    "de": "Name Ich heiße … / Mein Name ist … / Ich bin …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-14-1-age-ich-bin-jahre",
+    "chapter": 14,
+    "category": "Introducing Yourself",
+    "de": "Age Ich bin … (Jahre alt).",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-14-2-country-ich-komme-au",
+    "chapter": 14,
+    "category": "Introducing Yourself",
+    "de": "Country Ich komme aus …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-14-3-occupation-ich-bin",
+    "chapter": 14,
+    "category": "Introducing Yourself",
+    "de": "Occupation Ich bin … / Ich arbeite als …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-14-4-mein-hobby-ist-m",
+    "chapter": 14,
+    "category": "Introducing Yourself",
+    "de": "Mein Hobby ist … / Meine Hobbys sind …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-14-0-ich-m-chte-will",
+    "chapter": 14,
+    "category": "Expressing Wishes",
+    "de": "Ich möchte/will …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-14-1-nicht-reisen",
+    "chapter": 14,
+    "category": "Expressing Wishes",
+    "de": "… (nicht) reisen.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-14-0-er-es-sie-ist-sie",
+    "chapter": 14,
+    "category": "Evaluating",
+    "de": "Er/Es/Sie ist / Sie sind nicht in",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-14-1-er-es-sie-ist-sie",
+    "chapter": 14,
+    "category": "Evaluating",
+    "de": "Er/Es/Sie ist / Sie sind nicht gut.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-14-2-er-es-sie-ist-sie",
+    "chapter": 14,
+    "category": "Evaluating",
+    "de": "Er/Es/Sie ist / Sie sind in",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-14-3-er-es-sie-ist-sie",
+    "chapter": 14,
+    "category": "Evaluating",
+    "de": "Er/Es/Sie ist / Sie sind gut.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-14-4-er-es-sie-ist-sie",
+    "chapter": 14,
+    "category": "Evaluating",
+    "de": "Er/Es/Sie ist / Sie sind total in",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-14-5-er-es-sie-ist-sie",
+    "chapter": 14,
+    "category": "Evaluating",
+    "de": "Er/Es/Sie ist / Sie sind sehr gut.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-15-0-haben-sie-schmerzen",
+    "chapter": 15,
+    "category": "Describing Pain",
+    "de": "Haben Sie Schmerzen? Ich habe Rückenschmerzen/Bauchschmerzen/Kopfschmerzen/ …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-15-0-ist-das-nicht-toll",
+    "chapter": 15,
+    "category": "Expressing And Responding To Happiness, Regret And Surprise",
+    "de": "Ist das nicht toll!",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-15-1-ich-bin-gl-cklich-u",
+    "chapter": 15,
+    "category": "Expressing And Responding To Happiness, Regret And Surprise",
+    "de": "Ich bin glücklich, und du?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-15-2-gl-ckwunsch",
+    "chapter": 15,
+    "category": "Expressing And Responding To Happiness, Regret And Surprise",
+    "de": "Glückwunsch!",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-15-3-ja-super-finde-i",
+    "chapter": 15,
+    "category": "Expressing And Responding To Happiness, Regret And Surprise",
+    "de": "Ja, super. / Finde ich auch.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-15-4-das-ist-schade",
+    "chapter": 15,
+    "category": "Expressing And Responding To Happiness, Regret And Surprise",
+    "de": "Das ist schade!",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-15-5-das-ist-ja-komisch",
+    "chapter": 15,
+    "category": "Expressing And Responding To Happiness, Regret And Surprise",
+    "de": "Das ist ja komisch!",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-15-0-haben-sie-vor-9-00-u",
+    "chapter": 15,
+    "category": "Suggesting Dates – Talking About Dates",
+    "de": "Haben Sie vor 9:00 Uhr Zeit? Das ist zu früh. Ich muss meine Kinder zur Schule bringen.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-15-1-kann-ich-dich-nach-2",
+    "chapter": 15,
+    "category": "Suggesting Dates – Talking About Dates",
+    "de": "Kann ich dich nach 23:00 Uhr",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-15-2-das-ist-zu-sp-t-da",
+    "chapter": 15,
+    "category": "Suggesting Dates – Talking About Dates",
+    "de": "Das ist zu spät. Da schlafe ich schon. Ich muss morgen um 8:00 Uhr",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-15-3-in-der-arbeit-sein",
+    "chapter": 15,
+    "category": "Suggesting Dates – Talking About Dates",
+    "de": "in der Arbeit sein.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-15-0-sie-hatte-vor-zwei",
+    "chapter": 15,
+    "category": "Describing The Past, Present And Future",
+    "de": "Sie hatte vor zwei",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-15-1-pr-sentation",
+    "chapter": 15,
+    "category": "Describing The Past, Present And Future",
+    "de": "Präsentation.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-15-2-sie-hat-heute-ein",
+    "chapter": 15,
+    "category": "Describing The Past, Present And Future",
+    "de": "Sie hat heute ein",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-15-3-sie-gehen-morgen-ins",
+    "chapter": 15,
+    "category": "Describing The Past, Present And Future",
+    "de": "Sie gehen morgen ins",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-15-0-warum-kommst-du-nich",
+    "chapter": 15,
+    "category": "Explaining",
+    "de": "Warum kommst du nicht? / Warum … Ich habe keine Zeit.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-15-1-entschuldige-ich-ka",
+    "chapter": 15,
+    "category": "Explaining",
+    "de": "Entschuldige, ich kann heute nicht.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-15-2-entschuldige-das-ha",
+    "chapter": 15,
+    "category": "Explaining",
+    "de": "Entschuldige, das habe ich total vergessen.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-15-3-ich-kann-heute-leide",
+    "chapter": 15,
+    "category": "Explaining",
+    "de": "Ich kann heute leider nicht kommen. Ich bin krank.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-15-0-gehen-sie-doch-jogge",
+    "chapter": 15,
+    "category": "Offering Advice",
+    "de": "Gehen Sie doch joggen.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-15-1-sie-m-ssen-gesund-es",
+    "chapter": 15,
+    "category": "Offering Advice",
+    "de": "Sie müssen gesund essen und mehr Sport machen.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-15-2-so-kannst-du-abnehme",
+    "chapter": 15,
+    "category": "Offering Advice",
+    "de": "So kannst du abnehmen.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-0-entschuldigung-wo-f",
+    "chapter": 16,
+    "category": "Asking For Information And Reacting To It",
+    "de": "Entschuldigung, wo finde ich … / wo gibt es … /",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-1-wo-sind",
+    "chapter": 16,
+    "category": "Asking For Information And Reacting To It",
+    "de": "wo sind …?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-2-haben-sie",
+    "chapter": 16,
+    "category": "Asking For Information And Reacting To It",
+    "de": "Haben Sie …?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-3-finden-sie-im-erst",
+    "chapter": 16,
+    "category": "Asking For Information And Reacting To It",
+    "de": "… finden Sie im ersten/zweiten/dritten … Stock.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-4-tut-mir-leid-habe",
+    "chapter": 16,
+    "category": "Asking For Information And Reacting To It",
+    "de": "Tut mir leid, … haben wir nicht.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-0-stimmt-das-richti",
+    "chapter": 16,
+    "category": "Expressing Confirmation",
+    "de": "Stimmt das? / Richtig? Ja. / Das ist richtig. /",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-0-wie-gef-llt-ihnen-di",
+    "chapter": 16,
+    "category": "Expressing Likes And Dislikes",
+    "de": "Wie gefällt Ihnen/dir …?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-1-wie-finden-sie",
+    "chapter": 16,
+    "category": "Expressing Likes And Dislikes",
+    "de": "Wie finden Sie …?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-2-gef-llt-mir-sehr",
+    "chapter": 16,
+    "category": "Expressing Likes And Dislikes",
+    "de": "… gefällt mir (sehr) gut.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-3-ich-finde-sch-n-to",
+    "chapter": 16,
+    "category": "Expressing Likes And Dislikes",
+    "de": "Ich finde … schön/toll/elegant/bequem …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-4-gef-llt-mir-gar",
+    "chapter": 16,
+    "category": "Expressing Likes And Dislikes",
+    "de": "… gefällt mir (gar) nicht / nicht so gut.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-5-sehr-sch-n-toll-su",
+    "chapter": 16,
+    "category": "Expressing Likes And Dislikes",
+    "de": "(Sehr) schön/toll/super/schick/elegant.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-6-nicht-so-sch-n-ni",
+    "chapter": 16,
+    "category": "Expressing Likes And Dislikes",
+    "de": "Nicht so schön. / Nicht so gut.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-7-ist-zu-eng-weit-ku",
+    "chapter": 16,
+    "category": "Expressing Likes And Dislikes",
+    "de": "… ist zu eng/weit/kurz/lang/groß/ klein.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-8-welche-farbe-m-gen-s",
+    "chapter": 16,
+    "category": "Expressing Likes And Dislikes",
+    "de": "Welche Farbe mögen Sie / magst du gern? Ich mag/liebe Grün/Blau/Gelb/…",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-9-sind-modern-schick",
+    "chapter": 16,
+    "category": "Expressing Likes And Dislikes",
+    "de": "… sind modern/schick/klassisch/bequem.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-10-meine-lieblingsfarbe",
+    "chapter": 16,
+    "category": "Expressing Likes And Dislikes",
+    "de": "Meine Lieblingsfarbe ist Blau/Grün/Gelb/Rot/…",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-0-m-chten-sie-noch-etw",
+    "chapter": 16,
+    "category": "Etwas, Mehr, Nichts , Alles",
+    "de": "Möchten Sie noch etwas? Ja, … bitte.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-1-darf-es-noch-etwas-s",
+    "chapter": 16,
+    "category": "Etwas, Mehr, Nichts , Alles",
+    "de": "Darf es noch etwas sein? Ja, ich brauche noch …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-2-sonst-noch-etwas-ne",
+    "chapter": 16,
+    "category": "Etwas, Mehr, Nichts , Alles",
+    "de": "Sonst noch etwas? Nein, danke, ich brauche nichts mehr.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-3-brauchen-sie-noch-et",
+    "chapter": 16,
+    "category": "Etwas, Mehr, Nichts , Alles",
+    "de": "Brauchen Sie noch etwas? Nein, danke, das ist alles.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-4-m-chtest-du-auch-etw",
+    "chapter": 16,
+    "category": "Etwas, Mehr, Nichts , Alles",
+    "de": "Möchtest du auch etwas essen?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-5-ja-ich-esse-auch-et",
+    "chapter": 16,
+    "category": "Etwas, Mehr, Nichts , Alles",
+    "de": "Ja, ich esse auch etwas. Ich nehme …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-6-nein-ich-esse-nicht",
+    "chapter": 16,
+    "category": "Etwas, Mehr, Nichts , Alles",
+    "de": "Nein, ich esse nichts.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-16-0-man-schreibt-1-50-eu",
+    "chapter": 16,
+    "category": "Prices",
+    "de": "Man schreibt 1,50 Euro. Man sagt ein Euro fünfzig oder eins fünfzig.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-0-m-nchen-liegt-im-s-d",
+    "chapter": 17,
+    "category": "Compass Points",
+    "de": "München liegt im Süden von Deutschland.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-0-wie-weit-ist-es-nach",
+    "chapter": 17,
+    "category": "Distances",
+    "de": "Wie weit ist es nach Berlin? – Von München nach Berlin sind es 584 Kilometer.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-1-wie-weit-ist-es-zum",
+    "chapter": 17,
+    "category": "Distances",
+    "de": "Wie weit ist es zum Hotel? – Von der Haltestelle zum Hotel sind es circa 500 Meter.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-0-sehr-geehrte-damen-u",
+    "chapter": 17,
+    "category": "Requesting Information By Email",
+    "de": "Sehr geehrte Damen und Herren / Sehr geehrte Frau … / Sehr geehrter Herr …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-1-k-nnen-sie-mir-uns",
+    "chapter": 17,
+    "category": "Requesting Information By Email",
+    "de": "Können Sie mir/uns … schicken?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-2-haben-sie-angebote-f",
+    "chapter": 17,
+    "category": "Requesting Information By Email",
+    "de": "Haben Sie Angebote für …?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-3-kann-ich-k-nnen-wi",
+    "chapter": 17,
+    "category": "Requesting Information By Email",
+    "de": "Kann ich / können wir … reservieren/mieten?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-4-vielen-dank-f-r",
+    "chapter": 17,
+    "category": "Requesting Information By Email",
+    "de": "Vielen Dank für …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-5-mit-freundlichen-gr",
+    "chapter": 17,
+    "category": "Requesting Information By Email",
+    "de": "Mit freundlichen Grüßen",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-0-entschuldigung-ich",
+    "chapter": 17,
+    "category": "Making A Complaint",
+    "de": "Entschuldigung. Ich habe ein Problem. Wie kann ich Ihnen helfen?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-1-mein-essen-ist-kalt",
+    "chapter": 17,
+    "category": "Making A Complaint",
+    "de": "Mein Essen ist kalt. Bitte entschuldigen Sie. Das tut mir/uns (sehr) leid.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-2-in-unserem-zimmer-is",
+    "chapter": 17,
+    "category": "Making A Complaint",
+    "de": "In unserem Zimmer ist es zu warm / zu kalt /",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-3-m-chten-sie-ein-ande",
+    "chapter": 17,
+    "category": "Making A Complaint",
+    "de": "Möchten Sie ein anderes Zimmer?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-4-ist-kaputt-funkt",
+    "chapter": 17,
+    "category": "Making A Complaint",
+    "de": "… ist kaputt / funktioniert nicht. Wir reparieren das sofort.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-5-k-nnen-sie-bringen",
+    "chapter": 17,
+    "category": "Making A Complaint",
+    "de": "Können Sie … bringen/reparieren/…? Natürlich. Sofort.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-6-k-nnen-sie-uns-ein-a",
+    "chapter": 17,
+    "category": "Making A Complaint",
+    "de": "Können Sie uns ein anderes Zimmer geben? Das geht leider nicht.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-0-es-ist-sonnig",
+    "chapter": 17,
+    "category": "Describing The Weather",
+    "de": "Es ist sonnig.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-1-es-ist-bew-lkt-es-i",
+    "chapter": 17,
+    "category": "Describing The Weather",
+    "de": "Es ist bewölkt. Es ist windig. Es ist warm.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-2-es-ist-kalt-es-sind",
+    "chapter": 17,
+    "category": "Describing The Weather",
+    "de": "Es ist kalt. Es sind 5 Grad unter Null. /",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-3-es-sind-minus-5-grad",
+    "chapter": 17,
+    "category": "Describing The Weather",
+    "de": "Es sind minus 5 Grad.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-4-es-sind-7-grad-ber",
+    "chapter": 17,
+    "category": "Describing The Weather",
+    "de": "Es sind 7 Grad über Null. /",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-5-es-sind-plus-7-grad",
+    "chapter": 17,
+    "category": "Describing The Weather",
+    "de": "Es sind plus 7 Grad.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-0-am-morgen-ist-es-noc",
+    "chapter": 17,
+    "category": "Giving A Weather Forecast",
+    "de": "Am Morgen ist es noch kalt. Am Nachmittag wird es warm.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-1-am-nachmittag-ist-es",
+    "chapter": 17,
+    "category": "Giving A Weather Forecast",
+    "de": "Am Nachmittag ist es sonnig. In der Nacht wird es bewölkt.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-0-leider-regnet-es-heu",
+    "chapter": 17,
+    "category": "Expressing Hope, Disappointment, Indifference And Concern",
+    "de": "Leider regnet es heute. Das ist schade!",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-1-das-zimmer-ist-klein",
+    "chapter": 17,
+    "category": "Expressing Hope, Disappointment, Indifference And Concern",
+    "de": "Das Zimmer ist klein. Egal. / Na und?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-2-das-ist-mir-egal",
+    "chapter": 17,
+    "category": "Expressing Hope, Disappointment, Indifference And Concern",
+    "de": "Das ist mir egal.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-0-ich-mag-den-mein",
+    "chapter": 17,
+    "category": "Talking About Your Favorite Time Of Year",
+    "de": "Ich mag den … / Mein Lieblingsmonat ist der …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-1-im-ist-es-warm-kal",
+    "chapter": 17,
+    "category": "Talking About Your Favorite Time Of Year",
+    "de": "Im … ist es warm/kalt/windig/sonnig/…",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-2-im-ist-sind-es-plu",
+    "chapter": 17,
+    "category": "Talking About Your Favorite Time Of Year",
+    "de": "Im … ist/sind es plus/minus … Grad",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-3-im-regnet-schneit",
+    "chapter": 17,
+    "category": "Talking About Your Favorite Time Of Year",
+    "de": "Im … regnet/schneit es (oft/manchmal/nicht).",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-17-4-im-scheint-die-son",
+    "chapter": 17,
+    "category": "Talking About Your Favorite Time Of Year",
+    "de": "Im … scheint die Sonne (oft/manchmal/nicht).",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-0-ich-muss-nicht-jede",
+    "chapter": 18,
+    "category": "Describing Routines",
+    "de": "Ich muss nicht jede Nacht arbeiten.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-1-ich-bin-vormittags-i",
+    "chapter": 18,
+    "category": "Describing Routines",
+    "de": "Ich bin vormittags immer im Büro.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-0-entschuldigung-ich",
+    "chapter": 18,
+    "category": "Asking And Giving Directions",
+    "de": "Entschuldigung, ich habe eine Frage. /",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-1-entschuldigung-k-nn",
+    "chapter": 18,
+    "category": "Asking And Giving Directions",
+    "de": "Entschuldigung, können Sie mir helfen?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-2-wo-finde-ich-ist",
+    "chapter": 18,
+    "category": "Asking And Giving Directions",
+    "de": "Wo finde ich … / ist …?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-3-entschuldigung-wo-i",
+    "chapter": 18,
+    "category": "Asking And Giving Directions",
+    "de": "Entschuldigung. Wo ist …?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-4-das-ist-ganz-einfach",
+    "chapter": 18,
+    "category": "Asking And Giving Directions",
+    "de": "Das ist ganz einfach. Gehen Sie rechts",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-5-geradeaus-und-dann",
+    "chapter": 18,
+    "category": "Asking And Giving Directions",
+    "de": "geradeaus # und dann …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-6-da-ist",
+    "chapter": 18,
+    "category": "Asking And Giving Directions",
+    "de": "Da ist …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-7-gehen-sie-nach-recht",
+    "chapter": 18,
+    "category": "Asking And Giving Directions",
+    "de": "Gehen Sie nach rechts \" /links ! in die …straße.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-8-also-hier-rechts-und",
+    "chapter": 18,
+    "category": "Asking And Giving Directions",
+    "de": "Also hier rechts und dann …?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-9-tut-mir-leid-ich-bi",
+    "chapter": 18,
+    "category": "Asking And Giving Directions",
+    "de": "Tut mir leid. Ich bin nicht von hier.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-10-tut-mir-leid-das-we",
+    "chapter": 18,
+    "category": "Asking And Giving Directions",
+    "de": "Tut mir leid, das weiß ich nicht.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-0-wann-f-hrt-der-zug-n",
+    "chapter": 18,
+    "category": "At The Station",
+    "de": "Wann fährt der Zug nach … ab? Um …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-1-wo-f-hrt-der-zug-nac",
+    "chapter": 18,
+    "category": "At The Station",
+    "de": "Wo fährt der Zug nach … ab? Auf Gleis …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-2-wann-komme-ich-in",
+    "chapter": 18,
+    "category": "At The Station",
+    "de": "Wann komme ich in … an? Um …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-3-wo-muss-ich-umsteige",
+    "chapter": 18,
+    "category": "At The Station",
+    "de": "Wo muss ich umsteigen? In Bonn / Am Goetheplatz / Am Theater /",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-4-an-der-luisenstra-e",
+    "chapter": 18,
+    "category": "At The Station",
+    "de": "An der Luisenstraße / …",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-5-ein-ticket-eine-fa",
+    "chapter": 18,
+    "category": "At The Station",
+    "de": "Ein Ticket / Eine Fahrkarte nach … Einfach oder hin und zurück?",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-0-ja-nat-rlich-gern",
+    "chapter": 18,
+    "category": "Permission",
+    "de": "(Ja) natürlich./Gerne.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-1-ja-hier-ist-erlau",
+    "chapter": 18,
+    "category": "Permission",
+    "de": "Ja, hier ist … erlaubt.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-2-hier-d-rfen-k-nnen-s",
+    "chapter": 18,
+    "category": "Permission",
+    "de": "Hier dürfen/können Sie ….",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-3-nein-tut-mir-leid",
+    "chapter": 18,
+    "category": "Permission",
+    "de": "Nein, tut mir leid. / Das ist hier verboten. / Bitte nicht.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-4-nein-hier-ist-ver",
+    "chapter": 18,
+    "category": "Permission",
+    "de": "Nein, hier ist … verboten.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-0-die-kollegen-sind-so",
+    "chapter": 18,
+    "category": "Making Comparisons",
+    "de": "Die Kollegen sind so alt wie ich.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-1-viele-kollegen-sind",
+    "chapter": 18,
+    "category": "Making Comparisons",
+    "de": "Viele Kollegen sind 30, wie ich.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-2-die-kollegen-sind-gl",
+    "chapter": 18,
+    "category": "Making Comparisons",
+    "de": "Die Kollegen sind gleich alt.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-0-m-chtest-du-einen-te",
+    "chapter": 18,
+    "category": "Expressing Desire",
+    "de": "Möchtest du einen Tee? – Nein, lieber Kaffee.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-1-m-chtest-du-wandern",
+    "chapter": 18,
+    "category": "Expressing Desire",
+    "de": "Möchtest du wandern? – Nein, lieber Fahrrad fahren.",
+    "en": null,
+    "register": null
+  },
+  {
+    "id": "p-18-2-ich-m-chte-mehr-urla",
+    "chapter": 18,
+    "category": "Expressing Desire",
+    "de": "Ich möchte mehr Urlaub haben.",
+    "en": null,
+    "register": null
+  }
+]

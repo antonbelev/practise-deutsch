@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "title": "Hallo, ich bin …",
+    "sequenceCount": 3,
+    "vocabCount": 107,
+    "phraseCount": 23
+  },
+  {
+    "id": 2,
+    "title": "Menschen in Deutschland",
+    "sequenceCount": 3,
+    "vocabCount": 115,
+    "phraseCount": 9
+  },
+  {
+    "id": 3,
+    "title": "Freunde und Co.",
+    "sequenceCount": 3,
+    "vocabCount": 118,
+    "phraseCount": 10
+  },
+  {
+    "id": 4,
+    "title": "In der Stadt unterwegs",
+    "sequenceCount": 3,
+    "vocabCount": 202,
+    "phraseCount": 19
+  },
+  {
+    "id": 5,
+    "title": "Einkaufen und Essen",
+    "sequenceCount": 3,
+    "vocabCount": 82,
+    "phraseCount": 11
+  },
+  {
+    "id": 6,
+    "title": "Mein Alltag",
+    "sequenceCount": 3,
+    "vocabCount": 146,
+    "phraseCount": 15
+  },
+  {
+    "id": 7,
+    "title": "Kommst du mit?",
+    "sequenceCount": 3,
+    "vocabCount": 111,
+    "phraseCount": 20
+  },
+  {
+    "id": 8,
+    "title": "Deine Wohnung ist schön",
+    "sequenceCount": 3,
+    "vocabCount": 104,
+    "phraseCount": 20
+  },
+  {
+    "id": 9,
+    "title": "Das war sehr schön",
+    "sequenceCount": 3,
+    "vocabCount": 81,
+    "phraseCount": 13
+  },
+  {
+    "id": 10,
+    "title": "Kontakte im Alltag",
+    "sequenceCount": 3,
+    "vocabCount": 138,
+    "phraseCount": 23
+  },
+  {
+    "id": 11,
+    "title": "Entschuldigen Sie bitte",
+    "sequenceCount": 3,
+    "vocabCount": 128,
+    "phraseCount": 21
+  },
+  {
+    "id": 12,
+    "title": "Ich bin hier neu",
+    "sequenceCount": 3,
+    "vocabCount": 121,
+    "phraseCount": 18
+  },
+  {
+    "id": 13,
+    "title": "Familie und Freunde",
+    "sequenceCount": 3,
+    "vocabCount": 113,
+    "phraseCount": 25
+  },
+  {
+    "id": 14,
+    "title": "Der Sommerjob",
+    "sequenceCount": 3,
+    "vocabCount": 109,
+    "phraseCount": 13
+  },
+  {
+    "id": 15,
+    "title": "Glück gehabt",
+    "sequenceCount": 3,
+    "vocabCount": 220,
+    "phraseCount": 22
+  },
+  {
+    "id": 16,
+    "title": "Shoppen gehen",
+    "sequenceCount": 3,
+    "vocabCount": 142,
+    "phraseCount": 25
+  },
+  {
+    "id": 17,
+    "title": "Wir fahren weg",
+    "sequenceCount": 3,
+    "vocabCount": 154,
+    "phraseCount": 32
+  },
+  {
+    "id": 18,
+    "title": "Arbeit und Mobilität",
+    "sequenceCount": 3,
+    "vocabCount": 100,
+    "phraseCount": 30
+  }
+]
