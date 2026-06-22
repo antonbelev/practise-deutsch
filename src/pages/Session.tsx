@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 import { buildQuestions } from "../content/buildQuestions";
+import { getExercise } from "../topics";
 import type { ContentType, Direction, GameType, Question } from "../content/types";
 import { GameShell } from "../games/GameShell";
 import { Flashcards } from "../games/Flashcards";
@@ -15,6 +16,9 @@ interface SessionState {
   content: ContentType;
   game: GameType;
   direction?: Direction;
+  // when launched from a Topic, generate questions from the exercise instead
+  topicId?: string;
+  exerciseId?: string;
 }
 
 const SESSION_LIMIT = 20; // questions per session (keeps it bite-sized)
@@ -30,6 +34,11 @@ export function Session() {
   // (incl. "Play again"), so a fresh, reshuffled set is built each time.
   const questions = useMemo<Question[]>(() => {
     if (!state) return [];
+    // Topic exercises generate their own questions.
+    if (state.topicId && state.exerciseId) {
+      const found = getExercise(state.topicId, state.exerciseId);
+      return found ? found.exercise.generate(SESSION_LIMIT) : [];
+    }
     return buildQuestions({
       chapters: state.chapters,
       content: state.content,
@@ -92,6 +101,8 @@ export function Session() {
   function handleAnswer(correct: boolean) {
     setSeen((s) => s + 1);
     if (correct) setScore((s) => s + 1);
+    // chapter 0 is the sentinel for topic exercises — they bump streak/totals but
+    // not per-chapter mastery (recordAnswer skips chapter 0).
     void recordAnswer(current[0].chapter, correct);
     answeredThisStep.current = true;
   }

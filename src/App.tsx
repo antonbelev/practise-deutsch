@@ -3,6 +3,7 @@ import { ThemeToggle } from "./components/ThemeToggle";
 import { useProgress } from "./state/progress";
 import { Home } from "./pages/Home";
 import { Session } from "./pages/Session";
+import { Topics } from "./pages/Topics";
 import { Reference } from "./pages/Reference";
 import { Stats } from "./pages/Stats";
 
@@ -48,6 +49,9 @@ export default function App() {
             <NavLink to="/" end className={navClass}>
               Practise
             </NavLink>
+            <NavLink to="/topics" className={navClass}>
+              Topics
+            </NavLink>
             <NavLink to="/reference" className={navClass}>
               Reference
             </NavLink>
@@ -65,6 +69,7 @@ export default function App() {
       <main className="mx-auto max-w-3xl px-4 py-6 sm:py-10">
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/topics" element={<Topics />} />
           <Route path="/play" element={<Session />} />
           <Route path="/reference" element={<Reference />} />
           <Route path="/stats" element={<Stats />} />

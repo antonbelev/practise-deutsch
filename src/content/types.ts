@@ -70,4 +70,8 @@ export interface Question {
   example?: string | null; // supporting sentence, when available
   hint?: string | null; // e.g. article / part of speech
   choices?: string[]; // for multiple choice
+  // Optional clock face to render above the prompt (topic exercises only).
+  clock?: { h24: number; m: number };
+  // Accepted alternative answers for lenient type-checking (topic exercises).
+  accept?: string[];
 }

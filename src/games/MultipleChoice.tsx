@@ -76,6 +76,11 @@ export function Prompt({ question }: { question: Question }) {
           {question.hint}
         </span>
       )}
+      {question.clock && (
+        <div className="mt-3 mb-1">
+          <ClockFace h24={question.clock.h24} m={question.clock.m} />
+        </div>
+      )}
       <p className="mt-1 text-2xl font-semibold tracking-tight sm:text-3xl">
         {question.prompt}
       </p>
@@ -84,6 +89,7 @@ export function Prompt({ question }: { question: Question }) {
 }
 
 import type { Question } from "../content/types";
+import { ClockFace } from "../components/ClockFace";
 
 export function FeedbackBar({
   correct,

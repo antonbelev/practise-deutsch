@@ -68,12 +68,16 @@ export async function recordAnswer(
   p.totals.seen += 1;
   if (correct) p.totals.correct += 1;
 
-  const cp: ChapterProgress =
-    p.perChapter[chapter] ?? { seen: 0, correct: 0, mastery: 0 };
-  cp.seen += 1;
-  if (correct) cp.correct += 1;
-  cp.mastery = cp.mastery + MASTERY_ALPHA * ((correct ? 1 : 0) - cp.mastery);
-  p.perChapter[chapter] = cp;
+  // chapter 0 is the sentinel for curated Topic exercises: they contribute to
+  // totals + streak, but there is no chapter mastery bar to update.
+  if (chapter !== 0) {
+    const cp: ChapterProgress =
+      p.perChapter[chapter] ?? { seen: 0, correct: 0, mastery: 0 };
+    cp.seen += 1;
+    if (correct) cp.correct += 1;
+    cp.mastery = cp.mastery + MASTERY_ALPHA * ((correct ? 1 : 0) - cp.mastery);
+    p.perChapter[chapter] = cp;
+  }
 
   await saveProgress(p);
   return p;

@@ -39,7 +39,8 @@ export function TypeAnswer({ question, onAnswer, onNext, isLast }: GameProps) {
       return;
     }
     if (!value.trim()) return;
-    const ok = lenientEqual(value, question.answer);
+    const candidates = [question.answer, ...(question.accept ?? [])];
+    const ok = candidates.some((c) => lenientEqual(value, c));
     setResult(ok);
     onAnswer(ok);
   }
