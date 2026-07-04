@@ -8,6 +8,7 @@ import { Flashcards } from "../games/Flashcards";
 import { MultipleChoice } from "../games/MultipleChoice";
 import { TypeAnswer } from "../games/TypeAnswer";
 import { MatchFill } from "../games/MatchFill";
+import { Articles } from "../games/Articles";
 import { Confetti } from "../components/Confetti";
 import { useProgress } from "../state/progress";
 
@@ -146,6 +147,9 @@ export function Session() {
           onNext={handleNext}
           isLast={isLast}
         />
+      )}
+      {state.game === "articles" && (
+        <Articles question={q} onAnswer={handleAnswer} onNext={handleNext} isLast={isLast} />
       )}
     </GameShell>
   );

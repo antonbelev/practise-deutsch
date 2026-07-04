@@ -48,6 +48,11 @@ export function grammarFor(chapterIds: Iterable<ChapterId>): GrammarBlock[] {
   return grammar.filter((g) => set.has(g.chapter));
 }
 
+/** How many gendered nouns (der/die/das) exist in a chapter selection. */
+export function articleNounCountFor(chapterIds: Iterable<ChapterId>): number {
+  return vocabFor(chapterIds).filter((v) => v.pos === "noun" && v.article).length;
+}
+
 /** How many practiseable items exist for a content type in a chapter selection. */
 export function countFor(
   type: ContentType,

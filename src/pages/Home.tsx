@@ -1,6 +1,7 @@
 import { useMemo, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import {
+  articleNounCountFor,
   CHAPTER_RANGE,
   countFor,
   getChapters,
@@ -67,6 +68,7 @@ const GAMES: { id: GameType; label: string; blurb: string }[] = [
   { id: "multiple-choice", label: "Multiple choice", blurb: "Pick the answer" },
   { id: "type-answer", label: "Type the answer", blurb: "Recall & spell" },
   { id: "match-fill", label: "Match & fill", blurb: "Pairs & gaps" },
+  { id: "articles", label: "Der · Die · Das", blurb: "Master noun genders" },
 ];
 
 export function Home() {
@@ -103,7 +105,11 @@ export function Home() {
     () => [...selected].sort((a, b) => a - b),
     [selected],
   );
-  const available = countFor(content, selectedIds);
+  // The articles game always drills nouns, so its count ignores the content focus.
+  const isArticles = game === "articles";
+  const available = isArticles
+    ? articleNounCountFor(selectedIds)
+    : countFor(content, selectedIds);
   const canStart = selectedIds.length > 0 && available > 0;
 
   function toggle(id: number) {
@@ -200,14 +206,16 @@ export function Home() {
         </div>
       </section>
 
-      {/* content + game */}
+      {/* content + game — the articles game drills nouns directly, so it hides Focus */}
       <section className="grid gap-6 sm:grid-cols-2">
-        <Picker
-          title="Focus"
-          items={CONTENT}
-          value={content}
-          onChange={(v) => setContent(v as ContentType)}
-        />
+        {!isArticles && (
+          <Picker
+            title="Focus"
+            items={CONTENT}
+            value={content}
+            onChange={(v) => setContent(v as ContentType)}
+          />
+        )}
         <Picker
           title="Game"
           items={GAMES}
@@ -216,8 +224,14 @@ export function Home() {
         />
       </section>
 
+      {isArticles && (
+        <p className="-mt-4 text-sm text-muted">
+          Drills every gendered noun (der / die / das) in your selected chapters.
+        </p>
+      )}
+
       {/* direction — only meaningful for vocabulary (German ↔ English) */}
-      {content === "vocab" && (
+      {content === "vocab" && !isArticles && (
         <section className="space-y-2">
           <span className="text-sm font-semibold text-muted">Direction</span>
           <div className="flex gap-1 rounded-xl border border-border bg-surface p-1">

@@ -117,6 +117,47 @@ function buildVocab(opts: BuildOptions): Question[] {
   return finalize(questions, opts.limit);
 }
 
+// Strip a leading article — and any trailing "(Singular)"/"(Plural)" annotation —
+// from a German noun so the learner sees just the word. "der Tag" → "Tag",
+// "die Ferien (Plural)" → "Ferien".
+function bareNoun(de: string, article: string | null): string {
+  let s = de.replace(/\s*\((?:Singular|Plural)\)\s*$/i, "").trim();
+  if (article) {
+    const re = new RegExp(`^${article}\\s+`, "i");
+    if (re.test(s)) return s.replace(re, "");
+  }
+  return s.replace(/^(der|die|das)\s+/i, "");
+}
+
+// Der/Die/Das trainer: show a bare noun, pick its gender. The three articles are
+// the only choices, so there's no distractor sampling — every question is uniform.
+function buildArticles(opts: BuildOptions): Question[] {
+  const nouns = vocabFor(opts.chapters).filter(
+    (v) => v.pos === "noun" && v.article && v.de,
+  );
+  const questions: Question[] = nouns.map((v) => {
+    // Surface plural-only nouns as a learning note in the hint.
+    const pluralOnly = /\(Plural\)\s*$/i.test(v.de);
+    const hint = pluralOnly
+      ? "plural only"
+      : v.plural
+        ? `plural: ${v.plural}`
+        : null;
+    return {
+      kind: "article",
+      sourceId: v.id,
+      chapter: v.chapter,
+      prompt: bareNoun(v.de, v.article),
+      answer: v.article!.toLowerCase(),
+      // meaning is revealed as the reward on answer; plural rides along as a hint
+      example: v.en,
+      hint,
+      choices: ["der", "die", "das"],
+    };
+  });
+  return finalize(questions, opts.limit);
+}
+
 function buildPhrases(opts: BuildOptions): Question[] {
   const phrases = phrasesFor(opts.chapters).filter((p) => p.de.length > 3);
   const questions: Question[] = [];
@@ -225,6 +266,8 @@ function kindForGame(game: GameType): Question["kind"] {
       return "type";
     case "match-fill":
       return "match";
+    case "articles":
+      return "article";
   }
 }
 
@@ -234,6 +277,9 @@ function finalize(questions: Question[], limit?: number): Question[] {
 }
 
 export function buildQuestions(opts: BuildOptions): Question[] {
+  // The articles game is a self-contained mode: it always drills vocab nouns,
+  // regardless of the selected content focus.
+  if (opts.game === "articles") return buildArticles(opts);
   switch (opts.content) {
     case "vocab":
       return buildVocab(opts);

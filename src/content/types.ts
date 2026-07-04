@@ -56,13 +56,18 @@ export interface GrammarBlock {
 }
 
 export type ContentType = "vocab" | "phrases" | "grammar";
-export type GameType = "flashcards" | "multiple-choice" | "type-answer" | "match-fill";
+export type GameType =
+  | "flashcards"
+  | "multiple-choice"
+  | "type-answer"
+  | "match-fill"
+  | "articles";
 // Prompt direction for vocab: show German→recall English, or the reverse.
 export type Direction = "de-en" | "en-de";
 
 // A single normalised question consumed by the game components.
 export interface Question {
-  kind: "flashcard" | "mc" | "type" | "match" | "fill";
+  kind: "flashcard" | "mc" | "type" | "match" | "fill" | "article";
   sourceId: string;
   chapter: ChapterId;
   prompt: string; // what the learner sees
