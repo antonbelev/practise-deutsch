@@ -1,6 +1,9 @@
 import { useEffect, useState } from "react";
 import type { GameProps } from "./types";
 import { FeedbackBar } from "./MultipleChoice";
+import type { Gender } from "../content/genderRules";
+import { matchGenderRule } from "../content/genderRules";
+import { GenderRulesSheet } from "../components/GenderRulesSheet";
 
 // The three German definite articles, in the order shown. Each maps to a keyboard
 // digit (1/2/3) and an arrow key (←/↓/→) for fast, mouse-free play.
@@ -25,6 +28,10 @@ export function Articles({ question, onAnswer, onNext, isLast }: GameProps) {
   const [picked, setPicked] = useState<string | null>(null);
   const answered = picked !== null;
   const answer = question.answer; // "der" | "die" | "das"
+
+  // A rule that explains *this* noun's gender, when one applies. Only ever matches
+  // a rule consistent with the correct article, so the tip is never contradictory.
+  const rule = matchGenderRule(question.prompt, answer as Gender);
 
   useEffect(() => setPicked(null), [question.sourceId]);
 
@@ -104,6 +111,17 @@ export function Articles({ question, onAnswer, onNext, isLast }: GameProps) {
           isLast={isLast}
         />
       )}
+
+      {/* Contextual "why" — the rule behind this noun's gender, when one applies. */}
+      {answered && rule && (
+        <div className="animate-slide-up rounded-xl border border-border bg-surface-2/50 p-3 text-sm">
+          <span className="font-semibold text-accent">Why {answer}? </span>
+          <span className="text-muted">{rule.detail}</span>
+        </div>
+      )}
+
+      {/* Always-available cheat-sheet for learners who want the full rule set. */}
+      <GenderRulesSheet highlight={rule ?? undefined} />
     </div>
   );
 }
