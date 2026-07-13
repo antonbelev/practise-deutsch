@@ -2,6 +2,7 @@ import { useNavigate } from "react-router-dom";
 import { TOPICS } from "../topics";
 import type { Exercise } from "../topics";
 import { ClockFace } from "../components/ClockFace";
+import { BodyFigure } from "../components/BodyFigure";
 
 export function Topics() {
   const navigate = useNavigate();
@@ -41,6 +42,11 @@ export function Topics() {
               <p className="text-sm text-muted">{topic.blurb}</p>
             </div>
           </div>
+          {topic.id === "body" && (
+            <div className="card p-4">
+              <BodyFigure size={150} />
+            </div>
+          )}
           <div className="grid gap-2 sm:grid-cols-2">
             {topic.exercises.map((ex) => (
               <button
